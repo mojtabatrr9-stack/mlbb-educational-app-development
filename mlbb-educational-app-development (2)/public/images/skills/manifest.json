@@ -1,0 +1,3208 @@
+{
+  "chip": {
+    "crash-course": {
+      "file": "/images/skills/chip/crash-course.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/c579bea158659f895a0bf17990d92c3f.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "ffbf2c3a88725ddcdc8eaee5e47889298b2de5b02cc3758e393f718c7d838ac0"
+    },
+    "overtime": {
+      "file": "/images/skills/chip/overtime.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/54fb2598ed7dda64c728531f7129ecc3.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "ad8a73fdbc62ce34a499c56dedd1f80d4bfce2e717fd768ef1da1f1812e26d18"
+    },
+    "shortcut": {
+      "file": "/images/skills/chip/shortcut.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/30a989aae65f2808328d01db64694e58.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "f2c8159cf4afc4d5e860255e9806d7abe6cc148adf71cfba9938d29722319172"
+    },
+    "snack-time": {
+      "file": "/images/skills/chip/snack-time.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/4689a36d0d490c403855e60bf9c1afe1.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "b2bcafe37a8cde36dcd2a1c5b22f9669647a5da372a755b49be51cb2bc128881"
+    }
+  },
+  "cici": {
+    "yo-yo-blitz": {
+      "file": "/images/skills/cici/yo-yo-blitz.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/807a8aad42ebcbb9e834265ffff9acb9.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "297b4d8516ba496931d39d0a3209d71a37690c19e1c128ad08eb63842541bbd8"
+    },
+    "buoyant-bounce": {
+      "file": "/images/skills/cici/buoyant-bounce.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/33075fec659e7e8e9c3a8bcc7c76d4fe.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "ee7f6bcd0d403b85c0802cc09f9ce4d6838fcba08fd1e141353f006545108dab"
+    },
+    "curtain-call": {
+      "file": "/images/skills/cici/curtain-call.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/74577ac15cfb8058c6b61c2cbe73e7e1.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "19b7f4fba4a54c7c3055ca5c17711f60dff471367b7f2285c0568854938cbb9b"
+    },
+    "performers-delight": {
+      "file": "/images/skills/cici/performers-delight.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/91cbada30e2f55987e4baa6b4f62e075.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "662cb178eb22736788954bb14968c4b09ab96052199b90c7e40b1f0ff151fb29"
+    }
+  },
+  "nolan": {
+    "expansion": {
+      "file": "/images/skills/nolan/expansion.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/af57d7f4af0d5f2ced40e9f7a625b0c3.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "7f21facaee7ac0a8b4b5c1672a350622ae4f0770b359bb5a0a5786c68c1ab580"
+    },
+    "gauge": {
+      "file": "/images/skills/nolan/gauge.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/047da07933b7e232999a44f392840492.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "bfde15b9398caaa2065e11fd58bf0724c36ef65c283916a8a88479d62f6197ff"
+    },
+    "fracture": {
+      "file": "/images/skills/nolan/fracture.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/906ccebe1bd66aad387683b700796b1e.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "61cebf8f64d645072bda22c7eb7badcc5c50cb55e9931d784f1eabe19173302d"
+    },
+    "dimensional-rift": {
+      "file": "/images/skills/nolan/dimensional-rift.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/9223fb65fa055285c295237e53d14cb6.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "8d231abc43adf36aadf7c73853740082d22edc930e3351929ea757889b617479"
+    }
+  },
+  "ixia": {
+    "dual-beam": {
+      "file": "/images/skills/ixia/dual-beam.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/24af204eb87226c893bb95d82e3abfef.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "dfbb95402dec1a23845c69a6b701a2a6c145b3b74ffb064bdcd8b62ba17a154a"
+    },
+    "star-helix": {
+      "file": "/images/skills/ixia/star-helix.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/003f370e7655ec0ef7146b14310dd820.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "ae55789d1319b7ed1b922f14cf6a0f501e4aaaaa20d4bd09bb04d381d9725b01"
+    },
+    "full-barrage": {
+      "file": "/images/skills/ixia/full-barrage.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/442feb77f60240c55617a0c180e85136.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "7b81fcaf2d36fcf1528c4de29c20d336d80d5930340a0038814c58dca531db19"
+    },
+    "siphon-starlium": {
+      "file": "/images/skills/ixia/siphon-starlium.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/8e627c7e0772e7a25cf476677158fd47.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "78a02f0b5c083d735ec110dcff27e6777fb3fcd88d5156314f2d4c52d0270d29"
+    }
+  },
+  "arlott": {
+    "dauntless-strike": {
+      "file": "/images/skills/arlott/dauntless-strike.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/f704d0d995e9a43feb41af80b37a2eda.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "48a0d5bdcade6c0c6adc05beba86568834807c31c31d65802f67796bc97f65d2"
+    },
+    "vengeance": {
+      "file": "/images/skills/arlott/vengeance.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/92b9fc99e8fc29f151eba861b8844e01.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "46b95353fe2d6a38392f187c768c3ac488d5f1d21074175be8889d5d9252eb75"
+    },
+    "final-slash": {
+      "file": "/images/skills/arlott/final-slash.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/0b48c0956acbdbed97a80e3f944c5daa.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "7992320b7ec9bcb6a60058259aeeb002583194ace3b6303d3c979e2a952a5794"
+    },
+    "demon-gaze": {
+      "file": "/images/skills/arlott/demon-gaze.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/d572e834c82504e11c373d23ae7e3288.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "8f44a01f3947c87879497dc5df6114c32903733dd3e06c7925e09dea3979c69f"
+    }
+  },
+  "novaria": {
+    "astral-meteor": {
+      "file": "/images/skills/novaria/astral-meteor.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/3031905c82a22391eeed248271ce5480.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "249ee14c6b40683103c8f5cc6a15d4249496dfa529bc69adbf999073ec8829fe"
+    },
+    "astral-recall": {
+      "file": "/images/skills/novaria/astral-recall.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/6e3614314a2c5229fcc516882dcd87a1.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "a88e037f73d42729a336208dd859f01706eff3de503fd0efa25a3741fb507897"
+    },
+    "astral-echo": {
+      "file": "/images/skills/novaria/astral-echo.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/4578576c65af266f4ced927e43b64e55.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "4e69fdde21bfc8d1dd61463e959b7763876f137a5b730964b2d9c17f6f9e2197"
+    },
+    "star-trail": {
+      "file": "/images/skills/novaria/star-trail.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/73da863ba775a914adaf812c37ef1b44.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "7628e8e3a1b46a30a32c3623bd9b784e66de404481b3a3c6d4f18c3649938520"
+    }
+  },
+  "joy": {
+    "look-leonin-crystal": {
+      "file": "/images/skills/joy/look-leonin-crystal.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/b8f873404b67135fb758d7b79ef1d13b.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "e04bf956396ba3e73a19ccf395866000056380ab6d4d26f5986012e2985a9b6c"
+    },
+    "meow-rhythm-of-joy": {
+      "file": "/images/skills/joy/meow-rhythm-of-joy.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/2cdac9eb96e02ce56c1b95147115dc29.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "27251759f46fc0e80591a4d429309cf87c9b1659c035a673488482562a8624fe"
+    },
+    "ha-electrifying-beats": {
+      "file": "/images/skills/joy/ha-electrifying-beats.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/22fb08fcead79e42501505a9a62ae82f.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "d98ad8a6bb841d1479710810e6646c8c5bc0f5936456871c3f5b807252d36f33"
+    },
+    "humph-joys-angry": {
+      "file": "/images/skills/joy/humph-joys-angry.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/ee18fb1e9184dc65a83a29f8b9925803.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "b17963880a638a0dce37f19591550b675907a1c680543e1f3975345a5d02c317"
+    }
+  },
+  "fredrinn": {
+    "piercing-strike": {
+      "file": "/images/skills/fredrinn/piercing-strike.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/102413e50a9ed0d63548344e9474d920.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "416119169e877d20b79f1865bcb4e60e2947cb3a614fb4aaf9174b1f2108db96"
+    },
+    "brave-assault": {
+      "file": "/images/skills/fredrinn/brave-assault.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/b800d429bf1352ce5953ebb7d07db687.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "bd45e2c751d19ffeed4e610dd303ea010b04e510facb23ad28e221fb0b89aeb1"
+    },
+    "energy-eruption": {
+      "file": "/images/skills/fredrinn/energy-eruption.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/e3fcb549e819f9d8bc3de14fa714a513.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "33fdd120b5f3a239492b76e79829746f38689612cdffe926cf1ff5366132b565"
+    },
+    "crystalline-armor": {
+      "file": "/images/skills/fredrinn/crystalline-armor.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/b6c45cf13f1ede6fd01f002833d48c90.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "6803a6a3f16bf31efa44b13ac754178fa1b65e38082d283f461ae139c1a018aa"
+    }
+  },
+  "julian": {
+    "scythe": {
+      "file": "/images/skills/julian/scythe.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/08bb490207fc48c0a334c4e377b33b24.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "0a2eaa4816bd009dcf270029c492f6f1fe3d61fa01a400717d0376ef8058a865"
+    },
+    "sword": {
+      "file": "/images/skills/julian/sword.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/06c221e81410e0458ce818e0d3db3b5d.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "3390f14ec0501b673e755b373ae128f5260b18396a8b7aaf45ebb0531e98060b"
+    },
+    "chain": {
+      "file": "/images/skills/julian/chain.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/385e2dcae30114d5341d8d7c4614b1c1.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "2929f3352821a0cb9c2c25d772b6041da42052046495bac0d2fbc1779d31e244"
+    },
+    "smiths-legacy": {
+      "file": "/images/skills/julian/smiths-legacy.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/013d084471c041a3c06dee2fbb4b01f4.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "0725d1df9e561cc87b1804366a050bde833a4e3e68ce63f18118ed56e256e142"
+    }
+  },
+  "xavier": {
+    "infinite-extension": {
+      "file": "/images/skills/xavier/infinite-extension.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/cf02249479d24327ce1a725fda3e7c60.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "0fedb2c67d20694c677012dbfd2f72aa1f762019fbeae9f09946b67a262842d7"
+    },
+    "mystic-field": {
+      "file": "/images/skills/xavier/mystic-field.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/0cee45b3c1997aa2dba8f2e406784381.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "800ad22c8193a9275503036fd8ebef3e776f539e55ac42430536f921be1196d4"
+    },
+    "dawning-light": {
+      "file": "/images/skills/xavier/dawning-light.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/aa22894e946db582e05f39e5e525da8c.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "0f0e4a97f1434e84a98fcc9b15773a9554c483d19be3d747562de44ba49379fb"
+    },
+    "transcendence": {
+      "file": "/images/skills/xavier/transcendence.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/c0d4616fe42dd34b1b576644c6534159.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "6fe38166e937b9d1e2c1feac25b7ede9cfba0520cce4b946b05fa35eec004509"
+    }
+  },
+  "melissa": {
+    "falling": {
+      "file": "/images/skills/melissa/falling.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/a584fc1f67f4d1e9156a90aecaf5da0e.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "f7dbec2a8e68a14ae05f86cc172f8be5c3abafda01902faac00261d0d1a4b77e"
+    },
+    "eyes-on-you": {
+      "file": "/images/skills/melissa/eyes-on-you.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/f2b8537cb1a19b5963ebfc8a38cc5981.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "1e6ad36be5eb47b1bbae0716a80c75a3625162bd1065e8391d315efb0296db7b"
+    },
+    "go-away": {
+      "file": "/images/skills/melissa/go-away.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/e6e9fe28e86e5d9047ff222666d755df.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "5d95998a14edf1a9bf28cfb78236d58cd01892bd0cf8e1b5c27372ea92a0ed30"
+    },
+    "doll-buster": {
+      "file": "/images/skills/melissa/doll-buster.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/6901ce78442d21a6da29128d2ed32f80.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "514cf3045d7c9a526680134f38fc2b16d5b4f4f1da1e5f6def2ff4e8e2a12a29"
+    }
+  },
+  "yin": {
+    "charged-punch": {
+      "file": "/images/skills/yin/charged-punch.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/473c6183124476909ffa4d19d4381294.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "509edc99f00f7e61102cc07530bfdb197e8a45f0c4c37c27baa7c93653b66cfb"
+    },
+    "instant-blast": {
+      "file": "/images/skills/yin/instant-blast.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/b6c762ccc7853ec68b1b3a95a23d331c.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "f3d3252b43fce88b0a2f08b5930a2c7115dbd1b1b0c057cc99fcefecc78ca2c3"
+    },
+    "my-turn": {
+      "file": "/images/skills/yin/my-turn.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/0abb2245ad6a3cb1588620db12b030f3.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "e01d6d55b298331d333913726d0133b2b59d8f09c3788811759e62d96a74ea8c"
+    },
+    "leave-it-to-me": {
+      "file": "/images/skills/yin/leave-it-to-me.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/0f4d2dd2a1c45d492372e95cd463d7c2.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "8fc26355f3ec40bdfeb96048a6ad6c6ef7d4f63a6478e381e4e0c2bcc14efe51"
+    }
+  },
+  "floryn": {
+    "sprout": {
+      "file": "/images/skills/floryn/sprout.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/8416aea110d7271cf565d6c3a7286791.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "cd9d2e159cacf90800df9e6d07e42c57d374d1a74b4640a672e03b2c3bea69d1"
+    },
+    "sow": {
+      "file": "/images/skills/floryn/sow.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/76612c31c8987189abf8140b76c90fbd.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "9920d9f7bb389020ab91f240b1b6a0b91892e27f70b2240459180a0232a15948"
+    },
+    "bloom": {
+      "file": "/images/skills/floryn/bloom.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/20722a047974f9133f8bac94b25bdf0c.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "2b708bd4918a0c0a1a0e6d1631872ddac5c362b777c2766a9d3783cfe5dec703"
+    },
+    "dew": {
+      "file": "/images/skills/floryn/dew.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/3765c38d6d1ca11ddc648cc8951615aa.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "fdd18ab91fc2489def73e42ad38467b60730977e22cd0d701d66e5ae47ed3837"
+    }
+  },
+  "edith": {
+    "earth-shatter": {
+      "file": "/images/skills/edith/earth-shatter.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/d77653167d5d04fcf104dd95416f1d47.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "3fec5274171fbb491161de7936a0f7b4ec1c09a649bbba376dbe66f1ae17dc34"
+    },
+    "onward": {
+      "file": "/images/skills/edith/onward.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/59df958c1c046dff2f8f1a125f7badc7.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "bbfec7269a956a3a86438b6e318b458ffa77d78aa1ac680a49b3ad775d6cc15d"
+    },
+    "primal-wrath": {
+      "file": "/images/skills/edith/primal-wrath.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/ac9966c609be5ca009992f097bbde76f.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "20b2e9af173cbcd42baf1ea9a0d27477f0db062ef6558be240b096296fbeaaf6"
+    },
+    "overload": {
+      "file": "/images/skills/edith/overload.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/17f565fe917dced7615d1f02561075ac.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "4e8dc7773cbc27a0b7d021be29a1eaae525ad38e7d027278b6700fa52c333ccf"
+    }
+  },
+  "valentina": {
+    "shadow-strike": {
+      "file": "/images/skills/valentina/shadow-strike.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/7ff4f2a5db2d4bc8af2ef93b8a59eac1.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "9eb1e204270f391a221dd072318af5f7ea09579aea9c8a951871bdaeb6475382"
+    },
+    "arcane-shade": {
+      "file": "/images/skills/valentina/arcane-shade.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/35a2dd80f68b07170fa223f74e6823de.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "7dd0406f2b1396489469d070e961bbe41b58fb312b2d173ba401d350b718c25a"
+    },
+    "i-am-you": {
+      "file": "/images/skills/valentina/i-am-you.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/ee65a53fe40bebe4b68f6a399bbe1807.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "0a58410494e496b34061a86c425a193f06be23c80816bd24f0c9ecd821895ef0"
+    },
+    "primal-force": {
+      "file": "/images/skills/valentina/primal-force.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/f004815e03dd3cb72e09102b4cfea9e5.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "ba2cb1a6e339aa87c4829ea85c7a3ef532c8c0df080000902c97a11947b84e65"
+    }
+  },
+  "aamon": {
+    "soul-shards": {
+      "file": "/images/skills/aamon/soul-shards.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/9e217ae5c0d11c86e91439369edb0c83.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "f77058ad196b9a05ff79bc4188abe4f652f4bb9886a1e38bde1999b2f3c2af3e"
+    },
+    "slayer-shards": {
+      "file": "/images/skills/aamon/slayer-shards.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/a0a3665907bea41ba0cf730c2cbf9493.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "b04d3130172033e370056967207615138b0b3401586843ba366635d1670a8943"
+    },
+    "endless-shards": {
+      "file": "/images/skills/aamon/endless-shards.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/6a0c3a1cba9fcadc22f9f4d714ec9e88.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "f17b81029f721773c0d318e6c1aa8df40d846baedeed2aa08f5a700c759108e6"
+    },
+    "invisible-armor": {
+      "file": "/images/skills/aamon/invisible-armor.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/91790d52e62466be586db96286de6beb.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "1e53b74244900b73f16fb182c506fc7412e7c9d3ecacd70104a6f20ff5f8d056"
+    }
+  },
+  "aulus": {
+    "aulus-charge": {
+      "file": "/images/skills/aulus/aulus-charge.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/f2f164e307a63be4080fe45bdcb30f14.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "7d19f2a8afd843790180d11df5ff7c8e27a7e5d1d4ee9e65adc1483458b18d88"
+    },
+    "the-power-of-axe": {
+      "file": "/images/skills/aulus/the-power-of-axe.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/85bfd42525adee2dfde1d7d55c8a1bec.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "4a18ff1cc41bb757cd01b51669b348a6ac77c60a03af4da15d0117076632a19e"
+    },
+    "fighting-spirit": {
+      "file": "/images/skills/aulus/fighting-spirit.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/7589d4a240aded398df47da065207af8.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "4a252fff081538c25513c7b3ed0c49012d86675e1e8f287a288c340ebdd396bf"
+    }
+  },
+  "natan": {
+    "superposition": {
+      "file": "/images/skills/natan/superposition.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/b8b22da3d8c771315cdea8ae3d5c0c4c.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "ef511ccdaae1d38590eb4d56612a3a27f45a5bfff3ad72c9875d246f53303c4a"
+    },
+    "interference": {
+      "file": "/images/skills/natan/interference.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/b96976cfa8c80203563ae52daba3f62b.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "9067e607cf587416978ae2061d4e5069e6697d188451e3c5af55386ac83c42dc"
+    },
+    "entropy": {
+      "file": "/images/skills/natan/entropy.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/69dc50f0cb0ada1e854d0df704872b0b.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "e5f1c0df10bf2321ffa91e5ab668ce455b5e8ad4a01ccbb50e3e818663733c3b"
+    },
+    "theory-of-everything": {
+      "file": "/images/skills/natan/theory-of-everything.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/fc0d8343b1146db91443e6e098c5e118.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "167e2526dde802e19ea6364f9d220f6c04fc5c1a46e8d28e086a50af316ff1ff"
+    }
+  },
+  "phoveus": {
+    "malefic-terror": {
+      "file": "/images/skills/phoveus/malefic-terror.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/90e3395c8be92b708d7dfe7a549aa8b3.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "0a94e0d1ccbd9706c3f51e85d9da595736f8a4b27d355cd6d04fb9bb9aaae999"
+    },
+    "astaros-eye": {
+      "file": "/images/skills/phoveus/astaros-eye.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/4be9dff0161a01be78f478b3c11df0a0.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "f8ccabb620875842e7a170f5571715ed9968d37dc4b71718a64dbb26f6b96f47"
+    },
+    "demonic-force": {
+      "file": "/images/skills/phoveus/demonic-force.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/02a7cad9bd22c16845b011b168e66fd6.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "d3add080dfa72d020444d8180d90eed182996a53ca3461ddf54fca61caa02cef"
+    },
+    "demonic-intuition": {
+      "file": "/images/skills/phoveus/demonic-intuition.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/a00efa0143ec17c70650345cffb38c11.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "6c0e71813bd8c0037a7898100b8cdfad35a73457592890d577ec3949872b262b"
+    }
+  },
+  "beatrix": {
+    "renner": {
+      "file": "/images/skills/beatrix/renner.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/481c82942d3787689079676c0d3456c0.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "29361d30fa918a48c3e40ff626f74a1bdd4a8a13930f7fcff3d6658ab68183a9"
+    },
+    "mechanical-genius": {
+      "file": "/images/skills/beatrix/mechanical-genius.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/6e5829da4c6017b05421538066cab526.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "418ed2b7ee4d47be3c4905ef109a2fd2539973d239dac05d8d10c56737db7d54"
+    }
+  },
+  "gloo": {
+    "slam-slam": {
+      "file": "/images/skills/gloo/slam-slam.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/26f709801224f03e0923ea047a58c9e0.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "90b39ed3a3f8c70e7937e784b0e000f59b885ee98c848f86a0484cbb2dd114f9"
+    },
+    "pass-pass": {
+      "file": "/images/skills/gloo/pass-pass.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/0d00b6264038a212a77147ed2a95112e.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "9e98dfff76810e343a4bc37a1a98aff072ae1978900156eb53aaa328f8e006f4"
+    },
+    "split-split": {
+      "file": "/images/skills/gloo/split-split.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/e39fc93347a8198e58cfd184a19c9034.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "8fd37421429eaf74b9b09c1c2f388432a316208314cdd280f4bd989bbc1db917"
+    },
+    "stick-stick": {
+      "file": "/images/skills/gloo/stick-stick.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/75307c68d0bcd6f2e6be2bae5c6a4f4f.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "c6c5b527beb57eaeaba0946db8d229f1ba572cbf9eb76b14ac8dcf2dd4e186ce"
+    }
+  },
+  "paquito": {
+    "heavy-left-punch": {
+      "file": "/images/skills/paquito/heavy-left-punch.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/fc8242887fa1a976afbaeb478dd1fdf2.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "a1f9821ddc7b6a64a8e59979e2bbc6629fa7741b64e936ee633182f32bdde9a0"
+    },
+    "jab": {
+      "file": "/images/skills/paquito/jab.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/af837241f121c21b8894d834451c3e35.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "cf9aaa240b5186d1b101409575221c0d5691bffbb80df35fbe4107912802fb1e"
+    },
+    "knockout-strike": {
+      "file": "/images/skills/paquito/knockout-strike.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/0de901e1a25944f2e14e49632995cb6f.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "f517ebc03aaa0f667aca71fbbd9c0fa32f02756ba14d4017bf6f0fe10fe93bc0"
+    },
+    "champ-stance": {
+      "file": "/images/skills/paquito/champ-stance.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/49c38138b891e36e366854a6b761daf1.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "fb6912c44c2401ddc397684eee5c3b3f0868f5fb4a3afe68fa750031fa524a66"
+    }
+  },
+  "mathilda": {
+    "soul-bloom": {
+      "file": "/images/skills/mathilda/soul-bloom.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/e5b0a1d215fb055b9a893e6bc7b532a9.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "18d3dccbde1efadb47de7951f99398284cc4aba7a809da3d95af9c36208b15c8"
+    },
+    "guiding-wind": {
+      "file": "/images/skills/mathilda/guiding-wind.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/4f2968077c0f7e986f30d44b4aae393c.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "9f42abc3df0da8bd2e9479d132b5c9796923a200e11518047c0d7bffd9a2ce90"
+    },
+    "circling-eagle": {
+      "file": "/images/skills/mathilda/circling-eagle.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/42627f2f148cebd6ae5cbcb8a540ac6b.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "58f8fe1aaef7c4184c92fe743675e4eafb9347ae4d608d5c864076135cbe0b37"
+    },
+    "ancestral-guidance": {
+      "file": "/images/skills/mathilda/ancestral-guidance.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/40c1311abf358c6ff6deb7cd57cd404c.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "0154b8fe81b80b1c2ff60d01976cbe0053c81402639cd3f5b9d91ad108a9c36d"
+    }
+  },
+  "yve": {
+    "void-blast": {
+      "file": "/images/skills/yve/void-blast.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/3498db63aa33fbc46860160a0dfcac6e.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "97be80230f7d677709a05c80ebd7f0f79060a74653d2dde3914711002e2034c6"
+    },
+    "void-crystal": {
+      "file": "/images/skills/yve/void-crystal.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/5025292a4e92d7bb862915f5dda4c8a1.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "da951d87e6dc8d0fc9bc72fc53dc349168ccaa4e28d6e3f1302b7134e69f6fdd"
+    },
+    "real-world-manipulation": {
+      "file": "/images/skills/yve/real-world-manipulation.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/33ffdc427957390cfc3f14a9e8a9525e.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "d9787331ca2e030888b2bcec0fe1e4bb842a39d1f93541c0f4376506437198cf"
+    },
+    "galactic-power": {
+      "file": "/images/skills/yve/galactic-power.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/ae59e0e5cfcde09760ecee7e812afea0.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "67a099519dc034758833838a676a017e0ae87c1c5c96fadfa28d266dc0f019e7"
+    }
+  },
+  "brody": {
+    "abyss-impact": {
+      "file": "/images/skills/brody/abyss-impact.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/3862f5df9d52762e3bded2c5ea85b001.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "d1760ea1bb091d56859023a42b79a97396a06f134a829f103836f47b42b1cc9a"
+    },
+    "corrosive-strike": {
+      "file": "/images/skills/brody/corrosive-strike.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/a6d45df1563baa2435d77cb5831c330e.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "a09a06264c25393e272fd0b6c4de01531a4486a8bda4470eaa2b3864cc63eb80"
+    },
+    "torn-apart-memory": {
+      "file": "/images/skills/brody/torn-apart-memory.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/e19c7246e7754cb850b746021a34ea77.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "f0695262d8f73309e05b8a54004244c65f8efd55d0e424505cdbd87aec482659"
+    },
+    "abyss-corrosion": {
+      "file": "/images/skills/brody/abyss-corrosion.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/a794e5067db56b1dae168f11101da8ae.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "65f83bc059d3c92b3ab8f649ccbdf40b6e37913648e45b72dadad2d3b8ea42d4"
+    }
+  },
+  "barats": {
+    "so-called-teamwork": {
+      "file": "/images/skills/barats/so-called-teamwork.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/0ce74ff6a5ee39d09b3eafef0ccdaad9.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "32fc8281cf4416b675b141aa3e52db119d3dca421beeb506b60b6ded80b5c596"
+    },
+    "missile-expert": {
+      "file": "/images/skills/barats/missile-expert.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/d74ac31e49431abd879e04a064880273.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "471784c30a72d03123eda04a39b6826c36ead0781ee9f94795c9fc87802aef2b"
+    },
+    "big-guy": {
+      "file": "/images/skills/barats/big-guy.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/bf0a2ac66db14a7d60786ab613f45686.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "ae247d0a3fa2037bbde3e9d1b35c193d8385ba54c3dfac8c7b287a2ed9921546"
+    },
+    "detonas-welcome": {
+      "file": "/images/skills/barats/detonas-welcome.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/732b56fe4693368968c1871d20c4a021.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "a1683090c7885520f367665080f99a1f575d394017c4d63000745db39c2507ea"
+    }
+  },
+  "khaleed": {
+    "desert-tornado": {
+      "file": "/images/skills/khaleed/desert-tornado.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/55a85e7a96f9be1d5b25d18244c46991.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "6c3957e8cbedf7ddba9e95d8e2401492accc95baac4cd42c739cd6d66cd387f1"
+    },
+    "quicksand-guard": {
+      "file": "/images/skills/khaleed/quicksand-guard.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/b83a56a770e574430cd7c0c51db69569.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "2225c4fe21d88631b68e88c9f1eadf042d93d5810584be475f12027790bd2048"
+    },
+    "raging-sandstorm": {
+      "file": "/images/skills/khaleed/raging-sandstorm.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/13b28702ec0041f9b736304cf0308be1.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "179dc9b15cfe4062036bc4f2fbf3fc54070b4785b67c489a6e4791485c1ad9e1"
+    },
+    "sand-walk": {
+      "file": "/images/skills/khaleed/sand-walk.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/7963550bf80d93d8e57e105aea58ad50.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "c60dcb357484442aa887ab1f0e0c94c0939b7ec821e11adfc43c6dfa77822ea7"
+    }
+  },
+  "benedetta": {
+    "phantom-slash": {
+      "file": "/images/skills/benedetta/phantom-slash.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/abcfcb06e9ee7e996ef537d0e99e1dc8.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "9d5ad579e2720c21a32d9a602f2062db1dfe2daee5519e4c52c1b55109164326"
+    },
+    "an-eye-for-an-eye": {
+      "file": "/images/skills/benedetta/an-eye-for-an-eye.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/9caeb1bd346c16d7160014a3586036a9.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "93f6fbaff9bdebb45922fa9e130f399096f3ec9d73ca9f9c41a7b4c0df68cd3a"
+    },
+    "alecto-final-blow": {
+      "file": "/images/skills/benedetta/alecto-final-blow.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/0e17f68cc75f36faa398066fefa14ac8.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "b99e85548c238f7837377ba01d7d610a56d09771c08f65e196c3c6088005455d"
+    },
+    "elapsed-daytime": {
+      "file": "/images/skills/benedetta/elapsed-daytime.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/02eec3b5b55a9c0ed88b6bc433344029.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "8cce53d040faa2875866c2509b515f42b98da98de8b9d130ee4b96fda5868cf5"
+    }
+  },
+  "luo-yi": {
+    "dispersion": {
+      "file": "/images/skills/luo-yi/dispersion.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/91305a43f34d4751b553e665e9a91aea.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "0243eb4fd9aa1c8ceae5202c377a352d2695ff7a732823afc1feb4cdf40c14d7"
+    },
+    "rotation": {
+      "file": "/images/skills/luo-yi/rotation.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/edbe1a8b985f776a40801e175abbeec7.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "56acca49b209ab10878d8cb0a29aff549705f8a0d9fcdbdf44ec098c02f42fd3"
+    },
+    "diversion": {
+      "file": "/images/skills/luo-yi/diversion.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/15ec5c8f70cd2c73b8f70d43e2378fdf.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "437570db57bf1e4a82544d4eeb4aca4b340083eb61a935db3e481e3002fd7c78"
+    },
+    "duality": {
+      "file": "/images/skills/luo-yi/duality.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/ca4d68baeb710c4a6d019602bc499cbd.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "87e8b389844c8f2ca5d95d644fddf4ee042dae840e18795ffb277b784ea9e99d"
+    }
+  },
+  "yu-zhong": {
+    "dragon-tail": {
+      "file": "/images/skills/yu-zhong/dragon-tail.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/20498c8594054e9be861afd2753108df.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "be79ae2e98b0363b424b0f40f821bd66fa522884e4666a7c9157ebd29800737a"
+    },
+    "soul-grip": {
+      "file": "/images/skills/yu-zhong/soul-grip.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/aaa79f215fb96545c9c09f38132a8302.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "0030aa791ccd0d3f988924fac1f4bccbdd332ec9b0ed3b281c3aab24ec38ff10"
+    },
+    "furious-dive": {
+      "file": "/images/skills/yu-zhong/furious-dive.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/c614e0e972e4c2580ebfeee7c84f92c2.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "ac7c51ac4ddf9ae33c36fb943d18257887a7a41e0758b41139add03fd16a87c3"
+    },
+    "cursing-touch": {
+      "file": "/images/skills/yu-zhong/cursing-touch.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/309ac22485a92975ef2a9362b697db2e.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "12b388395d7d31b8609b5a47eabc29a7f9e87fc91986e76c8e109fc03c84bf7b"
+    }
+  },
+  "popol-and-kupa": {
+    "bite-em-kupa": {
+      "file": "/images/skills/popol-and-kupa/bite-em-kupa.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/4295b569acf96fb97e3be0b0df48b392.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "726cf146a7724147239c333bc8d197d7ca806b153b094e4a45f3f6d9702d0782"
+    },
+    "kupa-help": {
+      "file": "/images/skills/popol-and-kupa/kupa-help.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/365616e46bdfe29892b2424be1229e1d.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "9fae795301e4e2ccbb8687f325c8d38b751bcad5ab09930992ee22afd9fecddd"
+    },
+    "popols-surprise": {
+      "file": "/images/skills/popol-and-kupa/popols-surprise.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/f74f271f0f8569dd93d9b8c57c4a962e.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "391900c5af35ec8d54d385fb7bd68130080cdd4d7f83e7ad502ecf31dee0ae63"
+    },
+    "we-are-friends": {
+      "file": "/images/skills/popol-and-kupa/we-are-friends.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/effc1942b56246e2ac7b8d53de441e84.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "a4186ec058ffb2360cdc3539a71b6c1f848ef9c0510ecc66bfb6ae7fcb4e32a5"
+    }
+  },
+  "atlas": {
+    "annihilate": {
+      "file": "/images/skills/atlas/annihilate.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/eae00d8ac53938ac25b749a0645f3f40.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "8c29b15e2d2533aa1d1f996245a5b258c8aaaff6bfbf5821782c637803825b25"
+    },
+    "perfect-match": {
+      "file": "/images/skills/atlas/perfect-match.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/ef2947a24c284fdb32451b28306297a1.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "ca5b172913f221adf90622d7df1b9ee8fee036d1ca03dc1ee70053115e7a46c1"
+    },
+    "fatal-links": {
+      "file": "/images/skills/atlas/fatal-links.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/f73ce7695a56f8e5cae4994308a7c6f5.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "52c0ae2816d753e4c1791ddeb63b393f431331e13a715e5a5f2ed7eb4e83115d"
+    },
+    "frigid-breath": {
+      "file": "/images/skills/atlas/frigid-breath.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/5bb059ccd26e25fed266c69f2b76f137.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "362221ee5d4e55942971f2d6a0bcf417d6c0049304d06a6c1ab022fb390b6a24"
+    }
+  },
+  "carmilla": {
+    "crimson-flower": {
+      "file": "/images/skills/carmilla/crimson-flower.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/0df93d644f61c51b1a42a36add4b7328.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "9da1d974eb8daf7d626c7fd737f4aa092b0d07837173cf15d8983d64852d73b3"
+    },
+    "bloodbath": {
+      "file": "/images/skills/carmilla/bloodbath.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/1a5e10f868dfeddddb3ecfe7aa1f6b3c.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "bf2d9ad9d260b1e6eed0b7f1191c2ce528474741602075606947bf4aef650a69"
+    },
+    "curse-of-blood": {
+      "file": "/images/skills/carmilla/curse-of-blood.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/cdd80b3b685a94f1057946726af4ff87.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "2f1ce643d5f488ed1d76553e52b9ff38168f082b651db7c61e9d64d25b8db674"
+    },
+    "vampire-pact": {
+      "file": "/images/skills/carmilla/vampire-pact.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/7cb00e18d4b42c448503c0fdff2fa124.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "0235a6ece08a546c30f925ed05f2fd383e35c54025c6537865c11a2b3b01a119"
+    }
+  },
+  "cecilion": {
+    "bat-impact": {
+      "file": "/images/skills/cecilion/bat-impact.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/2fd205cb0a0a806ec62c9db4ad279bad.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "774edd7b9d53730e9d9becb520b21a94afdb5c150a41bae907a7cdf031d4470b"
+    },
+    "sanguine-claws": {
+      "file": "/images/skills/cecilion/sanguine-claws.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/82e2901e8947af4ea89a620f9ba2cedf.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "8dbf2a42a361fbf32881f3b27bc9d8b1d9b70ec98b881838726842b0a999a4ea"
+    },
+    "bats-feast": {
+      "file": "/images/skills/cecilion/bats-feast.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/0a352aae21a0fadc122c2747247abde8.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "3648a35ec35c418eff5cba24112fe1b565da1d711cfba8757a08924990d9c441"
+    },
+    "overflowing": {
+      "file": "/images/skills/cecilion/overflowing.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/271b31413ede078dd92d7124ed88f0fd.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "d5f8dce9784fe960877a7e0be54b8593cde65c3ffdd32e6c44a77aab64f0fabc"
+    }
+  },
+  "silvanna": {
+    "cometic-lance": {
+      "file": "/images/skills/silvanna/cometic-lance.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/ed0d9eaec6c517b4447cef43cb8d00d7.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "ce28aa61dd1c1aa327ad79daf6d09250a2fdc4a5360a224d84413961f92cfd4f"
+    },
+    "spiral-strangling": {
+      "file": "/images/skills/silvanna/spiral-strangling.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/043e033e7e560406b6fe422c101335b8.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "0a2a976e3e1491ef240a58dbccd272626e62bc0c0b4c5fc9aaa94916440d4daf"
+    },
+    "imperial-justice": {
+      "file": "/images/skills/silvanna/imperial-justice.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/8c70cb19aa4a521ab1abf4e849e02ff4.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "710b70b39fd05104513303b2ef9abe60d77816e28cd369e28bbd4034bdb69de3"
+    },
+    "knightess-resolve": {
+      "file": "/images/skills/silvanna/knightess-resolve.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/292b25846d677d061835d5407c54931e.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "b98ede3dbdb1d0b85e64e5229f5b7b9ab2437631d731f25ff20598ecf4d803b5"
+    }
+  },
+  "wanwan": {
+    "swallows-path": {
+      "file": "/images/skills/wanwan/swallows-path.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/7095d1a534e36915f79df36ddbf19c5d.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "0766bc05d179f6f3532988023b42bb0faf086cafcea74632298599a70c7d0703"
+    },
+    "needles-in-flowers": {
+      "file": "/images/skills/wanwan/needles-in-flowers.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/44ed216e8918815d9c03d6ecc56204ca.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "f71d7928f399932d2721191bb8fcd7001a77dbffaa98d086a9f1e35542b761e9"
+    },
+    "crossbow-of-tang": {
+      "file": "/images/skills/wanwan/crossbow-of-tang.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/c19e7c7ab3ac5bdd07f1831f87c610fd.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "264c255a76582f5f441cc3691b64db896361a5845010a7801347fa9827f33055"
+    },
+    "tiger-pace": {
+      "file": "/images/skills/wanwan/tiger-pace.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/338eae8651bdcfae608c688d45397877.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "0ae4a52344edefdcf47f466f418a3569c32661172e316a2cb6828c8fa6823727"
+    }
+  },
+  "masha": {
+    "wild-power": {
+      "file": "/images/skills/masha/wild-power.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/353a7b1db60988ae5059cbe0a6e8f3b7.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "4659f8e407e3281319253e2068fbee7c3df4e5bb84c7de1d2573e2e390ff2c74"
+    },
+    "howl-shock": {
+      "file": "/images/skills/masha/howl-shock.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/65fd902f4d77f0a9e5006b2f76a75954.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "e0e5e3ac5416ce66bb1a204dbd4ee75a34e643ba184a2ada0f7934664f20666f"
+    },
+    "thunderclap": {
+      "file": "/images/skills/masha/thunderclap.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/77cdf796f6fbf82d4002e1d0bb666177.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "edef00b2b6bbc4c6de88af55d3e617b525785c002e8f3957944b3c415116503c"
+    },
+    "ancient-strength": {
+      "file": "/images/skills/masha/ancient-strength.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/0d428780e3c4ca93812a8618e9c008b4.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "f75030b86343fef2edbc142902aab964b8ee1c3645ae98bcacd7f93b8cfacc7d"
+    }
+  },
+  "baxia": {
+    "baxia-shield-unity": {
+      "file": "/images/skills/baxia/baxia-shield-unity.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/dd3d3c4369ecebaca87cfdd9af833ff3.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "f6b99d93030e032da3498db89b1ff01882bbfdd387bdae67fa65083b43d3c1c1"
+    },
+    "shield-of-spirit": {
+      "file": "/images/skills/baxia/shield-of-spirit.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/2e41ade672da64ee3a4c07e8f8f898d4.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "478cb3b359d59eca0ad4519cba831a983c4eea821db0e65b443bada78eccbacb"
+    },
+    "tortoises-puissance": {
+      "file": "/images/skills/baxia/tortoises-puissance.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/6aa303cf19646d02980277e61c9e8ec3.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "497aef7f006b1be0fc33df6b1f05a9ed65bc014dc50e9f59f89592933da0190e"
+    },
+    "baxia-mark": {
+      "file": "/images/skills/baxia/baxia-mark.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/6ba917f816916840dc68661c5318c09e.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "e559cbd511dbf799f1280648b2e7f5fbd0055c7988be2bf90349406ee64c735d"
+    }
+  },
+  "lylia": {
+    "magic-shockwave": {
+      "file": "/images/skills/lylia/magic-shockwave.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/1667a5c88363a8930305136ac0463812.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "547e8443023d62b049927a6d0095f0d54a16d19c8e8686fd02e188a35056bdd5"
+    },
+    "shadow-energy": {
+      "file": "/images/skills/lylia/shadow-energy.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/2a4ddf441567836c8e6e5b574a968f4d.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "36acc3cb3e69baf974523ac261d7340cd692b64449642b01a1bc3c65c5a4187d"
+    },
+    "black-shoes": {
+      "file": "/images/skills/lylia/black-shoes.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/28d4af5e46ff65de16a23c975132e67a.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "ad7ee12871d532f69df3bf07ca2b7e45ad90fcae0cc5d722fec19bce9d6166f1"
+    },
+    "angry-gloom": {
+      "file": "/images/skills/lylia/angry-gloom.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/8936f908b9b0de284af481271439fac7.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "e7bc67b968cfc56461b9a11615f98a567e505221b7ff894257457fa65bf5c2fb"
+    }
+  },
+  "dyrroth": {
+    "burst-strike": {
+      "file": "/images/skills/dyrroth/burst-strike.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/04cfdd2e5e276a0a480b42a4c176dc5c.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "f2d355f1f009b421f6a071370f7acafc07804cbe6a957a2926e6459c8498d888"
+    },
+    "spectre-step": {
+      "file": "/images/skills/dyrroth/spectre-step.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/a9cab4f0ea58b9e737d39c3d8f60ba22.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "3276502d0e7fa048ac21d766491b8153068aa6adfa510544b9bdc2a0e72d6eda"
+    },
+    "abysm-strike": {
+      "file": "/images/skills/dyrroth/abysm-strike.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/1084773f1d76cbb31b9815dbf59d68c2.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "0a780128fcb2629ce65ee969794c025598d29769ec3339d5ccde855533b023d0"
+    },
+    "wrath-of-the-abyss": {
+      "file": "/images/skills/dyrroth/wrath-of-the-abyss.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/3be1f53dc136a562b14d917c19439f54.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "43a76e1ab883a97e49bbbe8f81b45ac006013451a9fb0c273cd1686013c879c1"
+    }
+  },
+  "ling": {
+    "finch-poise": {
+      "file": "/images/skills/ling/finch-poise.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/ba95f9632d9d8dc3c180034b9907969c.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "89c3c6e584f2492ec734698fa46f20438f3e23d1ba6fa7fe9b184bfe4b5cacbe"
+    },
+    "defiant-sword": {
+      "file": "/images/skills/ling/defiant-sword.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/b10ff2099acb546467648e21875a9ab9.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "3cb6f6133e7f96ba9c45e9c99ae2d9c764a958c06e2f258c8bb770e9c917ab03"
+    },
+    "tempest-of-blades": {
+      "file": "/images/skills/ling/tempest-of-blades.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/e4f1dcc6b69e67a1b828babe528d56c3.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "92e4e15bcef1521c367ce7943d2e20c22485d1cee7bee582a88152a12ca57940"
+    },
+    "cloud-walker": {
+      "file": "/images/skills/ling/cloud-walker.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/577ba6ea507e64c3fbfc1b59be1e5859.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "ab4f8053eab3b16616ffabedd28604fb1c4cef020ac75f87316e34a18f7504ab"
+    }
+  },
+  "xborg": {
+    "fire-missiles": {
+      "file": "/images/skills/xborg/fire-missiles.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/9f94ae214f972632dfe24f7834ab1060.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "9f509158cd065c431146adc5c5b8788e6f182793cccb654b658cba84a6e981a6"
+    },
+    "fire-stake": {
+      "file": "/images/skills/xborg/fire-stake.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/15882f2bd7927071e772cc2b5064b87c.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "60c75690f053b464ecc6b3b47f0337e605a638f59d7a97d471ed90273f0548ce"
+    },
+    "last-insanity": {
+      "file": "/images/skills/xborg/last-insanity.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/cf92afb09c0c304aa369d79ee4cef7f7.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "80bb9319ddab5f04950af0f4e9f92962910e6568ec495c6d01d0163db1cff946"
+    },
+    "firaga-armor": {
+      "file": "/images/skills/xborg/firaga-armor.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/0a8e68ea73b1e94d374d94702c3eaae5.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "042475667b9344dbf3472bfeb348fff798172cc6c449b6253627212b226cc9f2"
+    }
+  },
+  "terizla": {
+    "revenge-strike": {
+      "file": "/images/skills/terizla/revenge-strike.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/f03803be0126d0fc2c8ba7c09c3f1c2b.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "53e7ba62afd55c6f91ec9a84eea8ccc3480af43a76b207ff84951f9451068b84"
+    },
+    "execution-strike": {
+      "file": "/images/skills/terizla/execution-strike.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/c39b3f23425ee746c82a61a83bc6be6c.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "79d1db84e564899e236a35998c82fb96ea4d4f7fb25b5d86263b45d54723309b"
+    },
+    "penalty-zone": {
+      "file": "/images/skills/terizla/penalty-zone.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/a8ee37279588072e4771aca04d9ae6e3.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "526785fd1d1cdae24b5cb0637f127b45e05043549ce57dc046fa4b503844d3ab"
+    },
+    "body-of-smith": {
+      "file": "/images/skills/terizla/body-of-smith.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/70a497e6152639bceab1c9b484c48160.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "7da11a43109f233f5ff0abdc31f1a7e2cdffaeea83830b07f406f554d8411171"
+    }
+  },
+  "esmeralda": {
+    "frostmoon-shield": {
+      "file": "/images/skills/esmeralda/frostmoon-shield.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/9c4b8328201672b30af15a96b002123f.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "c2853e4a7f89153ab808d476eda5c1b0ad427d80ac8ade276b66bdea30dd796b"
+    },
+    "stardust-dance": {
+      "file": "/images/skills/esmeralda/stardust-dance.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/0c6385df714c1ef7b850ab003a1d9ea6.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "51904edaa07899a3379a723cd73f0400dc7e2e46a7172f9031724dfa7f67d246"
+    },
+    "falling-starmoon": {
+      "file": "/images/skills/esmeralda/falling-starmoon.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/ac1a1dbee80e83dcfa5a3d4d6916fb17.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "41b3050cea32877047eb7161b87e80b379baa5905583aef44b0ab76d31b3cb09"
+    },
+    "starmoon-casket": {
+      "file": "/images/skills/esmeralda/starmoon-casket.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/e826ea482d002d1c03bccdb6c4bf0027.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "00c7e25cd0be8f23950a5f2ab20b40124ef40aac345bc8b3a5f664763b1f2a23"
+    }
+  },
+  "guinevere": {
+    "energy-wave": {
+      "file": "/images/skills/guinevere/energy-wave.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/f3a1a52a8da281b1e7a7c486a085c5a2.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "b32bb27e8d325465264e95794f31bad9803866f013b511d99711487112371773"
+    },
+    "spatial-migration": {
+      "file": "/images/skills/guinevere/spatial-migration.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/331284b352cde7774c5d563b031dc8dd.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "4ef3b38457136bd48c876725fb29d3b025a89a76fee62891e665e4f89288e3d8"
+    },
+    "violet-requiem": {
+      "file": "/images/skills/guinevere/violet-requiem.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/ad7c9055b1932b5eba8b1c0f35b7a245.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "e6408d602655100161c16a27d4d3e8b39510e8b9065e879a92be9c2bf51dd92f"
+    },
+    "super-magic": {
+      "file": "/images/skills/guinevere/super-magic.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/4b6c128c71457248fdd39e5525d6f7bb.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "fe3ac42339a048bda56c8af7ace631bcd77696ce65f0fe5110410013cfeec699"
+    }
+  },
+  "granger": {
+    "rhapsody": {
+      "file": "/images/skills/granger/rhapsody.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/6bf27f88fa8b4ab76547e4e370982c07.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "9b5b6c5b4b009f1dd168e3d22e93de13ed71afef10627b8c0506d0b483d242bf"
+    },
+    "rondo": {
+      "file": "/images/skills/granger/rondo.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/f26905e2ab5a36785192bc90e8425dbc.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "612c1201442ea7a729b4069c5ed124d2049a001f3fa724c13b807f069dec588e"
+    },
+    "death-sonata": {
+      "file": "/images/skills/granger/death-sonata.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/19f887b6d5bc5aed48a73e23dbe0e22b.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "cb206801500d18a144c366f5e216078fa805e38a176012b408776546a15707fc"
+    },
+    "caprice": {
+      "file": "/images/skills/granger/caprice.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/d56b3366b3c172b5c319ce4708711348.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "31ac7af637a128f0445ce7f4f2d45641b2e25487baafeda3e4fa479ddbbf161d"
+    }
+  },
+  "khufra": {
+    "tyrants-revenge": {
+      "file": "/images/skills/khufra/tyrants-revenge.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/ab6733ccc7368de4b983e275509e761f.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "ff9d8f0c0c2379896411b6c9e10af57bcbc6f0ba342157cb3d39aa3e5818a894"
+    },
+    "bouncing-ball": {
+      "file": "/images/skills/khufra/bouncing-ball.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/978eac30729a30516273b72059b38eb2.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "be3257299afe4f2b64b666e52e6bd7f035c8158bb5c353223c31f326c3356911"
+    },
+    "tyrants-rage": {
+      "file": "/images/skills/khufra/tyrants-rage.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/fce482e80a883913d9972384f2aa6224.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "ee3654db82acd1232603c083e13e47a3c00d9adc671fe59fe010d8b7cbc2563f"
+    },
+    "spell-curse": {
+      "file": "/images/skills/khufra/spell-curse.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/b37df074fe0cdfd7177da8589d5d26b1.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "7475903816bac89d10af34b35c9b7e1552c2ef7c4058782efd8b9e756254d75f"
+    }
+  },
+  "badang": {
+    "fist-wind": {
+      "file": "/images/skills/badang/fist-wind.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/f3365e375b38b29893cd6edc42530ae4.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "f47ba0246b37c20f265ba6ffc039f6fbcc868712134175f214bf595c2847063b"
+    },
+    "fist-break": {
+      "file": "/images/skills/badang/fist-break.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/2faf3ccf39c17a05cddb45604c3853c4.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "71f09f8e3c8a5dcdb5d7ca2d1a04aa1b52fc0e9df5f6d025bd2784a2cc283ce1"
+    },
+    "fist-crack": {
+      "file": "/images/skills/badang/fist-crack.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/6567aa3e70206315f7f6288b5dda9c97.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "6e508278fbe39356286929f2ea8707f6190a1c3399b26742ffa6e6a2de2ab242"
+    },
+    "chivalry-fist": {
+      "file": "/images/skills/badang/chivalry-fist.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/d4c0f5456f065e617844f3188f89365e.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "1c9a2e2072f069b2e6ed566113f0bf2b5fc1ea3cc4ab90623e5129bdecdd6276"
+    }
+  },
+  "faramis": {
+    "shadow-stampede": {
+      "file": "/images/skills/faramis/shadow-stampede.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/427ada708262342e8d771778eed349e2.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "cee8db63981fa535fd7634d9d222ba070c10a0050bb5a9ea2fdd32c6e8cf84d8"
+    },
+    "ghost-bursters": {
+      "file": "/images/skills/faramis/ghost-bursters.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/76dbcca4a3c722c3eb203fbb04f09d2c.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "d39bbe2ef913995d4e823a4014caede045fea6d593131d96579f8c4879a8e05a"
+    },
+    "nether-realm": {
+      "file": "/images/skills/faramis/nether-realm.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/4389122530b18e7c56991ef6e8840eb6.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "a6171f14de492ce2adfaba89b1f9730583f50b8f678215356343e95ea25ccfdf"
+    },
+    "vicious-retrieval": {
+      "file": "/images/skills/faramis/vicious-retrieval.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/32d984e9893282edec7f5092a8499522.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "57327f59b52219a6d19f3e574bec228fae8008a67378ae170d51b288473e5c19"
+    }
+  },
+  "kadita": {
+    "ocean-ode": {
+      "file": "/images/skills/kadita/ocean-ode.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/4dd9ae722e552c55f26a3423226b9337.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "7559261a387687c917ebd8e63df4853a1ec0def0c186d4e08c794a6c1b37e958"
+    },
+    "breath-of-the-ocean": {
+      "file": "/images/skills/kadita/breath-of-the-ocean.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/a6ee6903412b32daaac4d9705552d4af.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "2a9824917efbd0fa9e6871416cf6d01d09436c98605d9a64145936c1fa5d17bc"
+    },
+    "rough-waves": {
+      "file": "/images/skills/kadita/rough-waves.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/cd1c38a911982997d05c406d3828f843.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "6d1f67d3593359cf02d1255532064c0730d9a73fdbeed13cd2d496d303770ca7"
+    },
+    "thalassophobia": {
+      "file": "/images/skills/kadita/thalassophobia.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/728d62ddf4db76eb7738b511542ffc3d.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "a5a84d0f72a89dcc19932040055e6380311e0dd5f6c129fb0d32be7612ecd33c"
+    }
+  },
+  "minsitthar": {
+    "spear-of-glory": {
+      "file": "/images/skills/minsitthar/spear-of-glory.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/8e8c8ed94238d9543eb611fa0d19ae7f.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "c1ad182a658c395b5fce8bf745ad493cbe6634fa719afa47cd34e84f027ff6b4"
+    },
+    "shield-assault": {
+      "file": "/images/skills/minsitthar/shield-assault.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/ae4f93dc19b90db67006b607d9d38979.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "874934712d461101f9d66eecd0225a16a3cb8f3567353c2e095c840e3c68082a"
+    },
+    "kings-calling": {
+      "file": "/images/skills/minsitthar/kings-calling.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/4ed5ca79d1e373316c02e9956da34e05.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "039fff2752dd31df3cd1140c54dfc3a5457d28640d99e7e6fabca3decb62e637"
+    },
+    "mark-of-the-king": {
+      "file": "/images/skills/minsitthar/mark-of-the-king.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/b3802753d20ff6a747674c0492fdd896.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "be2b2d7a6e8f8b6c24a9ae7717670d549e366a5f695a6bfe340d2b3d3e8ab678"
+    }
+  },
+  "harith": {
+    "synchro-fission": {
+      "file": "/images/skills/harith/synchro-fission.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/a7e14aa15e1a47fc5411dba41f5627b6.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "2b0589af90b06b85609101cabd16ec67d481ce7f79029e257eb6ea86b6720e3b"
+    },
+    "chrono-dash": {
+      "file": "/images/skills/harith/chrono-dash.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/140c2dfb01edfaa7fbb75b473a56c436.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "4a5ae634a4e117bf75179df7f0cee7349d1e46a9601875c9052e53732a5088b4"
+    },
+    "zaman-force": {
+      "file": "/images/skills/harith/zaman-force.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/907e56f4046432607f5b3d0549654be2.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "afa726622dd7247ebb4c660294b6f237d980901c0984d96e6ee43891c68ff5f4"
+    },
+    "key-insight": {
+      "file": "/images/skills/harith/key-insight.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/a50b3a4438d97c5f3cd74c8cccd1f0bd.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "f4d156e4ca6e8473ec03a2becd5eec73bc7fc484407e349f9baa80305a50576f"
+    }
+  },
+  "thamuz": {
+    "molten-scythes": {
+      "file": "/images/skills/thamuz/molten-scythes.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/65c6a74215c494c87c22196cec139bae.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "18ad16acbecde4ebe34b2a64e73bcbb92120492d1412b5e413b07c25db098633"
+    },
+    "chasm-trample": {
+      "file": "/images/skills/thamuz/chasm-trample.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/6f0ae33cdf69297fcd7676422042cf50.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "e82d37603f65a6f59455a0ccdb588e4474a2a5690b69bae9427a1f055c90c581"
+    },
+    "cauterant-inferno": {
+      "file": "/images/skills/thamuz/cauterant-inferno.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/c36600a36ad45b517e13aa91dcb3bed1.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "09b079ecbe26b90499ca5399e6c814480b7b7a08f19294dd167d57ac03c44c0a"
+    },
+    "grand-lord-lava": {
+      "file": "/images/skills/thamuz/grand-lord-lava.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/ccbd474f919d4aa7dda324eb916ba3c2.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "22aada1de240a54789831f0bc3b5cac37d3d07aa619e0f6ae9fd0069009878a3"
+    }
+  },
+  "kimmy": {
+    "energy-transformation": {
+      "file": "/images/skills/kimmy/energy-transformation.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/c586025b5ec7198f2296c0319f96fa5d.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "08cf9ca4093c84374b74cb4d9da984bb515f466af71f02523cd532d8b2809bd3"
+    },
+    "chemical-refinement": {
+      "file": "/images/skills/kimmy/chemical-refinement.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/b24e9e59352a0d20754af74fd91bf857.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "f09065ddfcdaadfe92ebb1c77451d2fa52e0059d701d3657166d791d4106f86c"
+    },
+    "maximum-charge": {
+      "file": "/images/skills/kimmy/maximum-charge.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/e03812ae96d7705fefac1a01fcfa3519.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "7157719c7565e0db63400920d4d004f8003abec7b07918c64c0d0ab6125be396"
+    },
+    "chemists-instinct": {
+      "file": "/images/skills/kimmy/chemists-instinct.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/25bdf0db1076cfc4b584efe67fbfd006.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "e6d364957fa14f73ca3ce9b6c7e3ccc79acaeb87bac520561372d4aaf6631209"
+    }
+  },
+  "belerick": {
+    "ancient-seed": {
+      "file": "/images/skills/belerick/ancient-seed.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/a173b5fa6ca236e36e62f3f94ddb66b4.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "ef69d253786ec1d52e4a1db37e3e3c47942efe5b4a1d300625999d939647433f"
+    },
+    "natures-strike": {
+      "file": "/images/skills/belerick/natures-strike.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/2f38691e6140e0ecff3696326ccfea0d.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "7be51c31036c1122aaca257ba6231b1dbe039b28628dd90a190a196b382fe198"
+    },
+    "wrath-of-dryad": {
+      "file": "/images/skills/belerick/wrath-of-dryad.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/ffad988f599723b4fae5b7b7a3b501d8.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "95b947d2771af52a3ac8675cef3329382c0305ce2a4a9c7b30e6ba23d7fc86a9"
+    },
+    "deadly-thorns": {
+      "file": "/images/skills/belerick/deadly-thorns.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/ecd5d92cf769ad3b54c88176a612befe.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "5305c2c8dd6adf3ac1ee3b18f2a7f25f2ae1d2474de9e871394e3f6b54e44eb3"
+    }
+  },
+  "hanzo": {
+    "ninjutsu-demon-feast": {
+      "file": "/images/skills/hanzo/ninjutsu-demon-feast.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/da1e536cbed328e59577f545b100f529.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "e50b01fb3ab560c410fcb8ba21f4ddddc114155f315f62ccd390b11e6f672fd3"
+    },
+    "ninjutsu-soul-reap": {
+      "file": "/images/skills/hanzo/ninjutsu-soul-reap.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/cffc1bd22d26afd305e4c85cb9327472.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "348006156bf1f5741a04785eb3e49efd4f7fb3b03a00297da22e8da0aa57ef81"
+    },
+    "kinjutsu-pinnacle-ninja": {
+      "file": "/images/skills/hanzo/kinjutsu-pinnacle-ninja.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/7b2959d7097fbddaa74f87707f0888ed.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "6bf893e408b1974389423742a545239421c58aaae9ff668119f34a7e8ee4c73c"
+    },
+    "ame-no-habakiri": {
+      "file": "/images/skills/hanzo/ame-no-habakiri.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/fb9d21cbc11734d49f7852718bd687a6.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "c39afad51788eceaff00147c62c9635e374bbb7e8fb80b6c1b4fed618bed9b40"
+    }
+  },
+  "lunox": {
+    "starlight-pulse": {
+      "file": "/images/skills/lunox/starlight-pulse.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/e6fe07684e885feac3466254ffcc937e.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "1a780e7a3ffff2103a91fd44003febb65bd25b9f2ce21a08d0ff37cdf229d91f"
+    },
+    "chaos-assault": {
+      "file": "/images/skills/lunox/chaos-assault.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/b082af50203a8c4e2aeff64c6543b512.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "1a35549d8e1b22df7e7b032c336190dea1abda4d68af1a5ec33bf37106b34df9"
+    },
+    "cosmic-fission": {
+      "file": "/images/skills/lunox/cosmic-fission.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/00b9d8ab5539438b01ca82d60d19a529.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "c0e9016576c79aef63867a1fa67261c2937637feb47ca16d87aec1d282bba6eb"
+    },
+    "dreamland-twist": {
+      "file": "/images/skills/lunox/dreamland-twist.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/0573ca7db6703ec88905661d78723cb2.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "89ec1d7a6d56579d7de87c240274a24daf64abcb2c226dfeb005c82131084d25"
+    }
+  },
+  "leomord": {
+    "momentum": {
+      "file": "/images/skills/leomord/momentum.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/63cf2fc7e766ed603f566f84fa47b0e5.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "9f6c31c3bb1e85d0cd4d899d6faada8f7820d8d22c2aa3eb876243b283172827"
+    },
+    "decimation-assault": {
+      "file": "/images/skills/leomord/decimation-assault.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/51f237245f60b68fa3c2c07fbf317210.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "baeb6aea8362b3cf3d98fb87070ff92e7eccf3d241ce58d4d1f221a9692e3e3b"
+    },
+    "phantom-steed": {
+      "file": "/images/skills/leomord/phantom-steed.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/0f8e02ac588f66fdfb2339e9c5d4e54d.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "dcfef0c431b5a9b2f2c7c8b8b04034cdc7ecdb176058dd8e8535adfe1485b987"
+    },
+    "the-oath-keeper": {
+      "file": "/images/skills/leomord/the-oath-keeper.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/021d63c8b353ee8c9c9b8908cba94f26.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "ce20df78176f0afc1688a554802343f5b2672d1720946bc842f8b9e3c1e88fa1"
+    }
+  },
+  "vale": {
+    "wind-blade": {
+      "file": "/images/skills/vale/wind-blade.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/0bd4c9a26178d83f50ce1e5831de512c.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "b1adaddf552eefb738e99cbd615f52a947f2c7d14109012dbb202cfd186eb848"
+    },
+    "windblow": {
+      "file": "/images/skills/vale/windblow.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/3c23df1b7523cafb34128820d250b2b6.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "7597ac929d9e298101807eb150f9fcd2ca9a937ef3602a81cbbe2af73027e0c9"
+    },
+    "windstorm": {
+      "file": "/images/skills/vale/windstorm.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/e6363015604d6b5e4d3609c1ef687c50.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "ac2e7ec079c139a277b5859b494e23e29ae7850bdec48f275f6c6b7ae479b4bb"
+    },
+    "windtalk": {
+      "file": "/images/skills/vale/windtalk.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/eeb2fa3d4bf56d4e7d61053549475090.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "b07333d7627b618c2914f963877cd6baa3a134290de11bf92d23065bee231e26"
+    }
+  },
+  "claude": {
+    "art-of-thievery": {
+      "file": "/images/skills/claude/art-of-thievery.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/afa0906e7ca4e32878273d3ab47fee57.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "bf52b52604a810a8447062ac1be8578e1dc45a851510fc5fef3ccb0fff0b1c74"
+    },
+    "battle-mirror-image": {
+      "file": "/images/skills/claude/battle-mirror-image.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/7a4838577c52a6e8d91a2fd5d8a98f05.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "6317e6889332087759124a060c96418783ca728f1d9f42e4968c54ef67744be0"
+    },
+    "blazing-duet": {
+      "file": "/images/skills/claude/blazing-duet.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/cf2a36e57f33f856f1a955b2adb92042.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "c69cb8083f4a1d700ae3b4beb55eed1c4471aa226372c2913700902432228f99"
+    },
+    "battle-side-by-side": {
+      "file": "/images/skills/claude/battle-side-by-side.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/dd1a3d504e53edf339457346282a68c2.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "c7d16df6214c05bb836e617585c0c3177e7ef43cd3ca12612f025b473699b40c"
+    }
+  },
+  "aldous": {
+    "contract-soul-steal": {
+      "file": "/images/skills/aldous/contract-soul-steal.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/878f00ad2befbc37bb83db8d63e41c4b.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "f154aa889e76df8ab4cf7715c360899f7fe60b27ccf509727773e232defdfda9"
+    },
+    "contract-explosion": {
+      "file": "/images/skills/aldous/contract-explosion.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/f0af4db704c14b92aee5d1c40e948950.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "54c4f5507e9e4d10c29788089e80c23fb319b3ebd9cb22a8a7358f8ae9196574"
+    },
+    "contract-chase-fate": {
+      "file": "/images/skills/aldous/contract-chase-fate.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/9ae280c82f204942765720465911c274.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "c9159c782a40ede363c638050ba6ee1296a7a531b9cd8c42ba980305bb521768"
+    },
+    "contract-transform": {
+      "file": "/images/skills/aldous/contract-transform.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/b99597f75434f7324b935586a216bd6a.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "42781ba49ad6c4ac0981a06130a7ebb7ba1d8324f1539ad68390a710e04b4cdc"
+    }
+  },
+  "selena": {
+    "abyssal-trap": {
+      "file": "/images/skills/selena/abyssal-trap.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/00508e7ff0ffb9af8d7addbce126dc25.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "0a08a4893f0dd55bc29976b29eb4a92f965d3b5a09047ceb8609e96ff3e40c5e"
+    },
+    "abyssal-arrow": {
+      "file": "/images/skills/selena/abyssal-arrow.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/e01087bf0a1678efe8ddc8a993822399.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "5f1ba27bcc94c67529275ce44084c9d6a0201578088dfbcba52f60054acd8d6f"
+    },
+    "primal-darkness": {
+      "file": "/images/skills/selena/primal-darkness.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/14cf0dec3aa796ffa2feff384351c09f.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "1ff942c3c72f84f9e8b1daa91b684b63e429bd7e289e188bbd6f4e88db2f1c74"
+    },
+    "symbiosis": {
+      "file": "/images/skills/selena/symbiosis.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/5f9bf4efc30df85c50aedf96f26ed143.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "d5fd3ef633588820b86d7a7e493683c0e4858dec434b088c422ee278547f56a4"
+    }
+  },
+  "kaja": {
+    "ring-of-order": {
+      "file": "/images/skills/kaja/ring-of-order.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/e0504b84a58a5b817204547e5f9a4179.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "01ec73e233b3bbb5fe77f7adcb8e4057342f5a95d19cc37408e47fc86330b450"
+    },
+    "lightning-bomb": {
+      "file": "/images/skills/kaja/lightning-bomb.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/0fd6bf12f42942c2079d81ba35423e50.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "8b5bfb20f491a138d60dfd824b06bb38120f07e9caa78c0e992c70eb69e88854"
+    },
+    "divine-judgment": {
+      "file": "/images/skills/kaja/divine-judgment.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/cf3205aa000b788fa0ac904b71ef664d.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "0bec058671d5aab962350a292968aef68699b77b710447ee10126d00b5aca3b3"
+    },
+    "wrath-sanction": {
+      "file": "/images/skills/kaja/wrath-sanction.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/26dd0cc96757d1a91a709f08ffc02e1e.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "aee0b349fcc81c60e2a58b2e618964cf16bdfb64e144a0d4ea04e2fb860f8178"
+    }
+  },
+  "change": {
+    "starmoon-shockwave": {
+      "file": "/images/skills/change/starmoon-shockwave.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/e00eef53a1be8e11f044263433b4dfb9.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "7474977bb12f87937f8205d1ec1074eb062295cfbe9529604b9ed450f7fb4e7e"
+    },
+    "crescent-moon": {
+      "file": "/images/skills/change/crescent-moon.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/65d28a2e5d3e48a2fef14ee9ae947de4.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "e3eb43fa3a7913f5dd358394025275b9409c8fcaca2847345e3af75aa20f199f"
+    },
+    "meteor-shower": {
+      "file": "/images/skills/change/meteor-shower.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/b1faff506d754ddaf51e07843c77ffc8.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "45fc1629a7951c8bd51c77d31eea2be49e9849cc8927b69b64e0ec1d75cacd64"
+    },
+    "trouble-maker": {
+      "file": "/images/skills/change/trouble-maker.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/579827f2c3b488d2ad5fd1dd406bfd01.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "d9d068ddd25124dae11183c46c3c5aa694cf0a8690c5abd13b0e3478b0de34a8"
+    }
+  },
+  "hanabi": {
+    "ninjutsu-equinox": {
+      "file": "/images/skills/hanabi/ninjutsu-equinox.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/e909084dee883e88ff0b2ff0a29e26e3.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "f6ee3becb2c2fd32408596b3051c5fab2c38b2d0fd6466df694c860e356193e1"
+    },
+    "ninjutsu-soul-scroll": {
+      "file": "/images/skills/hanabi/ninjutsu-soul-scroll.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/c49859df667a447d89b7cbb4c20e1a00.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "91136f696ac1c394bbe49e25fae3a66c321c64fe3ee82856d52d9a59cc5745b9"
+    },
+    "forbidden-jutsu-higanbana": {
+      "file": "/images/skills/hanabi/forbidden-jutsu-higanbana.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/886518a783a3792b586e4c991b96ad75.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "7a187efa42b74fa639f079a4035179b0318e4e031c67d33248ca24dc375d3c1b"
+    },
+    "ninjutsu-petal-barrage": {
+      "file": "/images/skills/hanabi/ninjutsu-petal-barrage.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/539fe430818f64b12c0e2919ad7e1c4f.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "db6c6629ab83a976129bc25082def6fe3d49e9e810cd87f734801ed35cdfaa98"
+    }
+  },
+  "uranus": {
+    "ionic-edge": {
+      "file": "/images/skills/uranus/ionic-edge.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/5678c3c714f3cc8fe8ab85b8b37c2044.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "23181d35e9726bdc4a8c13013c4845e0a3403d4b855a1215ddd96011a9d382a4"
+    },
+    "transcendent-ward": {
+      "file": "/images/skills/uranus/transcendent-ward.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/7d48b9f1095940d6d95db65e6441275f.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "3625d99a9ff9d353e1e0ebe94e9d9690566e2e7ea8ebfc0f569dc16b9d3f690c"
+    },
+    "consecration": {
+      "file": "/images/skills/uranus/consecration.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/aec0fcbf30521b6e016d6d69c91050c2.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "4bb9e7ab8b62faa628d512d154f9bc93e5ea7c7b407c7ff2e9bf5d0d2493641b"
+    },
+    "radiance": {
+      "file": "/images/skills/uranus/radiance.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/e216515de109703cdf7579d01d206de6.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "518ba657afc1b9f8a6a843b51169e14b6b051effe64e22d59ca4a4f01f2281fb"
+    }
+  },
+  "martis": {
+    "ashura-aura": {
+      "file": "/images/skills/martis/ashura-aura.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/f2f38933862091a12618d272f917e7ed.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "87dca6c4b0cdaabcdf74cab15bbf2678e75920ca480dd2f11e8ddadf71b3df8c"
+    },
+    "mortal-coil": {
+      "file": "/images/skills/martis/mortal-coil.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/e3e7108c1dfa631e2618bab55368aa88.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "d32b387fff8a8cefad91d82b88a96b5c89627fb035a0a71e160ee5c1945f18c9"
+    },
+    "decimation": {
+      "file": "/images/skills/martis/decimation.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/55c70c0c06730d5b000d2064f949e7ba.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "b57ac8c3ab890f1505b4a7bf4fb4373fa69abad7e311a095db30febc6cbff8d3"
+    },
+    "ashuras-wrath": {
+      "file": "/images/skills/martis/ashuras-wrath.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/93c450240a63159eecd1574db4596dba.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "316066eb9f592eae74ea708e8f6ca9f627a96058066c8cc7e2a81b150b8cf8dc"
+    }
+  },
+  "valir": {
+    "burst-fireball": {
+      "file": "/images/skills/valir/burst-fireball.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/3a1234552ae70cc06057f510f2a970b3.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "2e008555adad73eabdfe864df1fb2ffbacb4eef05be9a50b2194c127603e0bb6"
+    },
+    "searing-torrent": {
+      "file": "/images/skills/valir/searing-torrent.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/a4573b03472589675e473b1515e1e212.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "02187082f0f8cd236b2de132f0668aeb63ef2a9551f328519486fc49d931633d"
+    },
+    "vengeance-flame": {
+      "file": "/images/skills/valir/vengeance-flame.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/f2d5e119b5d8d20906d8721ec680f8b8.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "a02fa310b14f4fbd3d1fea14549573fd3b6bb88e8c51fa77b69e30110243d055"
+    },
+    "ashing": {
+      "file": "/images/skills/valir/ashing.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/443003ae2317eedb972a3beb8e452b02.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "1f23664dfecd13b68f19a2fbe3b6ddb62fa6d62b06cb94fadaa55f5251ac47ec"
+    }
+  },
+  "gusion": {
+    "sword-spike": {
+      "file": "/images/skills/gusion/sword-spike.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/378cfefce8a16329306798b7bb4d9ff7.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "4b4eb9799998c778b3e0fa57ed2b50de8abe7e3d20b99acdce45a2b453ab5cbc"
+    },
+    "shadowblade-slaughter": {
+      "file": "/images/skills/gusion/shadowblade-slaughter.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/8b488c30e420bd67ed1d266be9493778.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "cb576a6aa3bb542590929830340e37e2429584d8cff00786ac4fcb0e6377afc7"
+    },
+    "incandescence": {
+      "file": "/images/skills/gusion/incandescence.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/f0752851768f527b3d2f6ed2d90fe7e2.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "227f6bd5c583418dbcd515f6988fa32a813a448e757376bdd20982c93d1e95dc"
+    },
+    "dagger-specialist": {
+      "file": "/images/skills/gusion/dagger-specialist.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/c9c0b064f0506f48e86d59adb9f982e1.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "b225ecf0934e27d42d58071b42e978b944204c95e70f2a1be5dc0c7a89941fe5"
+    }
+  },
+  "angela": {
+    "love-waves": {
+      "file": "/images/skills/angela/love-waves.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/320477295b9dcf7821cbc4af4e61642d.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "160b0a7c5d56c4c057fbdb96b0284ffd4ff85450e9d71577334cf253881c3f77"
+    },
+    "puppet-on-a-string": {
+      "file": "/images/skills/angela/puppet-on-a-string.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/20cd666c45a15712acef5d2b4399534b.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "f4c36b13fee433ce381cf5cd6a3fa6465e3e90788a693d28f0159fa09aa91856"
+    },
+    "heartguard": {
+      "file": "/images/skills/angela/heartguard.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/ae9bdffba93f817a44139e9a8b2a071d.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "8044ca277a3d954aa0787365f463517bb8fda63b7e3e8b155c4a0f9ff445d3b6"
+    },
+    "smart-heart": {
+      "file": "/images/skills/angela/smart-heart.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/a8fe93510e0f6c45a2c2be63cf436aa0.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "96abf47faebc8e8d5ecff766675a4bf8d307baefebf39c39491f52b58c69f63d"
+    }
+  },
+  "jawhead": {
+    "smart-missiles": {
+      "file": "/images/skills/jawhead/smart-missiles.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/47fa575f98c16acda724e00a45ca14b0.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "35e5b28fae7dd9b1fab2ac5062af43bb6dacc7b5f0ea0a0ce5329c85c2054a30"
+    },
+    "ejector": {
+      "file": "/images/skills/jawhead/ejector.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/a1cd7244f9fe9ac10360505376810b02.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "48a866c09c739d2e23d54fe929adc18a96f3ba1c487092334087b4865814ea0f"
+    },
+    "unstoppable-force": {
+      "file": "/images/skills/jawhead/unstoppable-force.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/f630482b3d44e42b9ea2a18eb5ddb348.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "73d08b2668771539a41e1019b8c841c7593d44e666326d60ee5f675c5c33a2c6"
+    },
+    "mecha-suppression": {
+      "file": "/images/skills/jawhead/mecha-suppression.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/1c62d85fabdad70c80eecdb1b78fb789.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "c8b5151c8ad254e4ffce1443bbc1cb30e95855fe68f5344287f3029e51e25290"
+    }
+  },
+  "lesley": {
+    "master-of-camouflage": {
+      "file": "/images/skills/lesley/master-of-camouflage.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/9489e5f56c8d5e40aacb1b298342bf47.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "6fec3f6d8a2412ee15b67ae7d18e804315e0a23ba0387b22e371417057f5e95d"
+    },
+    "tactical-grenade": {
+      "file": "/images/skills/lesley/tactical-grenade.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/c54b3cd362ccdb8c3e315174a6402aea.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "7127323b18971c67089990f981dcdca8710d8bd32602a9ba9907981c364cca38"
+    },
+    "ultimate-snipe": {
+      "file": "/images/skills/lesley/ultimate-snipe.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/dc861ff99ac2db09dfa300c5051b58aa.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "f294ed3d4f6a65367181430752cf152ae33cd35354523c991369e4c1cd0db9f0"
+    },
+    "lethal-shot": {
+      "file": "/images/skills/lesley/lethal-shot.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/9646f24259b68d9ce6ad3054fb8f7e2d.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "a1d5d49c4c7de235b5b90b695e372553991ff182022f6b689e7f7d8da16788e8"
+    }
+  },
+  "pharsa": {
+    "curse-of-crow": {
+      "file": "/images/skills/pharsa/curse-of-crow.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/7f4e27814e49dfb128e7c3517c91e990.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "8f0a4da1698a4ce9f855ec2649e1d9895984644019eb192f805566211865d8c8"
+    },
+    "energy-impact": {
+      "file": "/images/skills/pharsa/energy-impact.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/dd34d9aaa1d61fff94f38758301edf50.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "295d0e224565ed13a4c9c1d716873740c0c19a828712a8f767f5e3ceaa7aaa15"
+    },
+    "feathered-air-strike": {
+      "file": "/images/skills/pharsa/feathered-air-strike.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/1ae3698c49e939133963490c284490c0.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "6ee514f4ba80cb7851be090ec363bdf4ad52391cf9ce8ce99aad0c1e7c3ae105"
+    },
+    "spiritual-unity": {
+      "file": "/images/skills/pharsa/spiritual-unity.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/2bf4d91d186d2909d93bcbbe19bfaa4c.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "89eeb372d3041f9743992f2262812699ff4c43fc93ca7b76951a402888a617a1"
+    }
+  },
+  "helcurt": {
+    "shadow-transition": {
+      "file": "/images/skills/helcurt/shadow-transition.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/fe9d2aac058acce7fae31e434482866a.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "a40545135a9d3a131f2bbbcc0f6dc11c04e4bad24518b4c57bd08e49baac5e4c"
+    },
+    "deadly-stinger": {
+      "file": "/images/skills/helcurt/deadly-stinger.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/32aad062b18a4cf58f42407aad817bca.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "899268bb9a919cdc3cfb2c44e6a9ce8b9dfa6524a0f7074387b9141d795111e4"
+    },
+    "dark-night-falls": {
+      "file": "/images/skills/helcurt/dark-night-falls.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/02151bd167d1f8c5f524b60c2554825f.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "5c84ad2bea3b557c700c5a4a5aea622a502889cbe1d68f40137c671b3726050e"
+    },
+    "race-advantage": {
+      "file": "/images/skills/helcurt/race-advantage.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/ceda9c30200dbf04414edc825156ba07.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "7e0d89fb3ef0e2201b4e7dde64bcf2234a0f34562e9c9b9388c303ebce3056c2"
+    }
+  },
+  "zhask": {
+    "nightmaric-spawn": {
+      "file": "/images/skills/zhask/nightmaric-spawn.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/6a9b078f8fe0ed98f705635263a72cc4.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "5df25fb3ea530e0b606d10a8fca29afd085b4d50a9f32d911fd49ce5b99d174f"
+    },
+    "mind-eater": {
+      "file": "/images/skills/zhask/mind-eater.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/478b1f93b38f1194635baa0ac73e0610.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "22b6df9f4d57677c27a08ba5352fe0d9ecfdc4141397857a9b55082359367b8a"
+    },
+    "hive-clones": {
+      "file": "/images/skills/zhask/hive-clones.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/cace6edc3b2f06f297b76ddbcc8e2361.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "baccf268a60ca23bd2fd0f6c30621258185f4865a7c457fc56a9a5d0cd20de0b"
+    },
+    "decimation": {
+      "file": "/images/skills/zhask/decimation.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/4d8bb448c77c166063747683c624767d.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "5dd6ea31522c73e8efe46d1b84611786cd79cf6c7af17270dfeb5ea4914005c4"
+    }
+  },
+  "hylos": {
+    "law-and-order": {
+      "file": "/images/skills/hylos/law-and-order.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/21d45b4c6117aab4f4b75185bacb6de8.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "90845141db04e3ff50c70c6b8c120be144e12289f1bf906f5ec1b8275e2071c5"
+    },
+    "ring-of-punishment": {
+      "file": "/images/skills/hylos/ring-of-punishment.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/15cb2a345e382497440d5ffe2fc01af5.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "91bfe23ff61b3c3cae5de30bf7ea3d933eacf9f31218f6bd74bf2683356c41f0"
+    },
+    "glorious-pathway": {
+      "file": "/images/skills/hylos/glorious-pathway.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/f822115ff2a7ff7dc87652ccae5cfbef.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "7ba4ea5a38e4172da981414263e581cf476d9f44a146b21b36ac916f66e47d9c"
+    },
+    "thickened-blood": {
+      "file": "/images/skills/hylos/thickened-blood.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/0a22fd3d66f2f408958b515113312e0d.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "77cbbe0594a4bc839161cd2feb854c58f5aed52faa95ee2a27f875493d6f9aaf"
+    }
+  },
+  "diggie": {
+    "auto-alarm-bomb": {
+      "file": "/images/skills/diggie/auto-alarm-bomb.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/92ee31edbaef8f8163d61fc63fb7d062.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "e9e363f06fff9b7415a5459430d4d5f8553752e284993ce67ebd360ca7177fcc"
+    },
+    "reverse-time": {
+      "file": "/images/skills/diggie/reverse-time.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/ae1901963b97702b73481b6b18486d8d.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "d22ffc01d9a88099d918ca9095819ad3a7d5417ec42c45d179703896c08baee6"
+    },
+    "time-journey": {
+      "file": "/images/skills/diggie/time-journey.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/e316d7911c30282b97332ffa1ad116cd.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "d7ed27c8ad6cece7c91d49300cd4453a251d68acc27b4bc71027c90f6177b653"
+    },
+    "young-again": {
+      "file": "/images/skills/diggie/young-again.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/88b36115e70c003ec5d81a67012aee28.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "6b63b05ba3f93bc237f199de0d50285be7231c3273d88353e17733e8e4d6ebf8"
+    }
+  },
+  "lancelot": {
+    "puncture": {
+      "file": "/images/skills/lancelot/puncture.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/621a237d5588a89cb241b1f2181fcb05.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "ea333350b8c8ec2af8e95711f08bf87429fd7c3b4131b066f3ecf495c08f82b3"
+    },
+    "thorned-rose": {
+      "file": "/images/skills/lancelot/thorned-rose.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/39ba555b4a55dca1dc2c28582aaf89ea.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "6ac43e8dba9e0f9e4823f5d58f856f9a8c28cd8a3dc5bc828e75a350c36ca8a8"
+    },
+    "phantom-execution": {
+      "file": "/images/skills/lancelot/phantom-execution.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/ecd42cf647a2be8195b052b3331158ab.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "2e736f911670be4120d42e936c8d465c25e5e3bfa4627aec4aed83011c8c7729"
+    },
+    "soul-cutter": {
+      "file": "/images/skills/lancelot/soul-cutter.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/4e736ff194b4161a07b0ae6cd669f55e.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "e78ade8adfc16956021d3044be69832520a4616cff333c82c5d8eccb06da4dbd"
+    }
+  },
+  "odette": {
+    "avian-authority": {
+      "file": "/images/skills/odette/avian-authority.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/e868c3af42f189bafc659a143aadd91b.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "b705b338b7a33222081f0eb534958f3d5ecf901a81cd4b27d1b0b9de33679d59"
+    },
+    "blue-nova": {
+      "file": "/images/skills/odette/blue-nova.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/5972cf5de7243abd7eeb6633c4579983.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "a9c0816c3c4029e6ec881892a790d004d52fcc97448c33f7a7d6bf7654942061"
+    },
+    "swan-song": {
+      "file": "/images/skills/odette/swan-song.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/ae0b4f91b53838dd4a8bba4d3011d52b.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "c500ed3c7078d7c5e672eb83d946ac83d8bc7866d1b7956c13e6271d796bee97"
+    },
+    "lakeshore-ambience": {
+      "file": "/images/skills/odette/lakeshore-ambience.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/1bb62f220128b20f10d3bff20ca613d1.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "c5c2b31faebb919bf3c7852e37343ba0ba76cd7e3871fda374724ea35c327ac7"
+    }
+  },
+  "argus": {
+    "demonic-grip": {
+      "file": "/images/skills/argus/demonic-grip.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/5fbee691edf252898de7899bff997359.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "2cc6fd8cacee3c500b674bb1e59587fedc09cb9febd4a00c7234f9450bf9d07c"
+    },
+    "meteoric-sword": {
+      "file": "/images/skills/argus/meteoric-sword.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/4bd5708d4bb84db9123cf82ea51674d6.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "45760582c570d429c8e944475dacec470bad3689b91db37d6d1806a5d01dc4d7"
+    },
+    "eternal-evil": {
+      "file": "/images/skills/argus/eternal-evil.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/314eaf1e42f070d26ba8d9f5e4c353fa.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "b065a3a51822796abc381650481a0edfe854682116cf54a721ac3ea05212d865"
+    },
+    "warmonger": {
+      "file": "/images/skills/argus/warmonger.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/6bee7a4d58e50ecf0784cda619eac21c.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "c2f0ffcee09e5467328a6d63a52c37177340186a5f34fc7c0a3f0b30e2737ca7"
+    }
+  },
+  "grock": {
+    "power-of-nature": {
+      "file": "/images/skills/grock/power-of-nature.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/d30f925a02335a40141f33bee74c8aea.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "0b8bb049da65f761e7dfc6ffdbebcd96170c7dcdb5eec897c3434e1ab4e4d0a5"
+    },
+    "guardians-barrier": {
+      "file": "/images/skills/grock/guardians-barrier.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/9c28b371f9e31198fe9f643347ffcb91.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "17d7e45fe04ee01c577266fe19542f5b9fd5798813887a05052ce319ae99e5c8"
+    },
+    "wild-charge": {
+      "file": "/images/skills/grock/wild-charge.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/8703cf42d074cd5c3e7ea0de2100313d.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "60c81e1b62fae75514b3092c3a39767e07a259b5d374da26d828fe9e0918b46b"
+    },
+    "earthen-force": {
+      "file": "/images/skills/grock/earthen-force.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/532e167a1b6902b525c04317a2cf1723.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "8ccd2b7d2ad9e585941dfb240f26ef4da8c3a8b390ab87bd8a2e8e6a0bd6ec4e"
+    }
+  },
+  "irithel": {
+    "strafe": {
+      "file": "/images/skills/irithel/strafe.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/993498d645ec9d1b5f187ec0dbbb5b44.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "d22c1f072e89a0a8411c4990ceddea2e94037c7326d52806b177b2d5f4c3bbe5"
+    },
+    "force-of-the-queen": {
+      "file": "/images/skills/irithel/force-of-the-queen.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/0543dc6726080455c4ac52d29eaa504d.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "286fff1ecad439451b4a65590d062daadb9fa49747ae6c6c57f5a99e7eb114cf"
+    },
+    "heavy-crossbow": {
+      "file": "/images/skills/irithel/heavy-crossbow.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/cb1ae6b4f5c5321e0f9f4f4731a081a0.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "88eeb5cbb6bf1f0ade308455827dba59779de98b8720fd725ec223014655fd5c"
+    },
+    "jungle-heart": {
+      "file": "/images/skills/irithel/jungle-heart.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/8d0fbddca7c697db4171df05b62f23e0.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "d9f290717c8103d7b3a6877bbaff186374c706d934d0f0ccfe62460168f3bc2c"
+    }
+  },
+  "harley": {
+    "poker-trick": {
+      "file": "/images/skills/harley/poker-trick.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/ebe81a23ea3091287080a2ccbc093bc5.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "2601cada061860ec3caff504a7837f2ef48da11751d515162816090ada3588e2"
+    },
+    "space-escape": {
+      "file": "/images/skills/harley/space-escape.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/432373f845e83db57309472e4b105528.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "649b7fcdd0262cb31f618fdfe709ef967ec76cc5911e7ea1017f3c95684abb04"
+    },
+    "deadly-magic": {
+      "file": "/images/skills/harley/deadly-magic.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/a5cd30147652533d0b2e63fe329cdf81.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "a03bfbb605a76d27026506bf94fe954e59b8bd1c69892034cb01badf5f722e8c"
+    },
+    "magic-master": {
+      "file": "/images/skills/harley/magic-master.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/73813a55878885d071d77ad632c1cd3a.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "b3daeb2aedac2b1aba9c30a6de807c0a5d444e31d1fb7308c085787fd0bffb40"
+    }
+  },
+  "gatotkaca": {
+    "blast-iron-fist": {
+      "file": "/images/skills/gatotkaca/blast-iron-fist.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/f098a7ec2d68e753bf0d9a230db2958a.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "037ea07a1a4dfaf312ca2c6b69475426db38fe36ab4c7d7627a1ec9de7e35095"
+    },
+    "unbreakable": {
+      "file": "/images/skills/gatotkaca/unbreakable.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/13335c9f1ffc27fc88bb953c183f5348.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "6dd6713e1dce654c75f26354f803f494a672510275895f6ece8b6c93e3b199d9"
+    },
+    "avatar-of-the-guardian": {
+      "file": "/images/skills/gatotkaca/avatar-of-the-guardian.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/52a864ba953251369e7eb6cac73eac0c.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "90cf1ce779bce3fdd088cc02b54febfc834ce6e56a5508fea446380b2d79869b"
+    },
+    "steel-bones": {
+      "file": "/images/skills/gatotkaca/steel-bones.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/9b84a994481f3ce4dd536be620d8e7fc.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "30e4b13e1a0e9846c019f8e5e452877a5e17450b40b0e246592d7a1094d934ff"
+    }
+  },
+  "karrie": {
+    "spinning-lightwheel": {
+      "file": "/images/skills/karrie/spinning-lightwheel.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/9ccc1d02808dc6d1acf28c37f36c3eff.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "b368e68c1772d4e1d870ac6e22c7d0f89084509daf5e120b3e7c96b3d7c27a24"
+    },
+    "phantom-step": {
+      "file": "/images/skills/karrie/phantom-step.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/213822d60de326e8be384eeb21d7941f.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "5cff8619d177b51e215e0223d33cc6d4a475f9608b0ab90b38dfc9065b375aba"
+    },
+    "speedy-lightwheel": {
+      "file": "/images/skills/karrie/speedy-lightwheel.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/20c58f147b2e5284960ac9ef6c89a2da.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "8beb4884caa9b306bcb55d22adcdbf804ccd9098a62cb12dd3277f835b4a0e2d"
+    },
+    "lightwheel-mark": {
+      "file": "/images/skills/karrie/lightwheel-mark.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/a77e3ba849a5970a794fd296abaaade4.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "4879d3fc89e0f2c21534793baed5f7ff418517d1ccd40af9b290ba6531255430"
+    }
+  },
+  "roger": {
+    "skill-1": {
+      "file": "/images/skills/roger/skill-1.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/f3a472aeb6fa0cc83b5a7537027e2c42.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "d7041b01220b373586f995085cac9c16bc5ee5a62f346ddd074c1d4208596245"
+    },
+    "open-fire": {
+      "file": "/images/skills/roger/open-fire.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/aa2db83d91ebb1b7d0c98bc36efed471.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "45f075ab611f9d524b4f8befd01015b7b17e57c48e647329c0dfd442fa59482e"
+    },
+    "hunters-steps": {
+      "file": "/images/skills/roger/hunters-steps.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/73afbad1820761f1459ed0bd5d2d8d77.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "cecce49a0ce960c4d014e347ad01e8248d94a5684c4692438ae1e2a6d67ffdba"
+    },
+    "full-moon-curse": {
+      "file": "/images/skills/roger/full-moon-curse.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/25ca5ba1dbcb2008122baf9f98048c71.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "4ce9d3a0a919351ad9327d6c350c14ae7eee870ab7f67d1390b6989e2fef0509"
+    }
+  },
+  "vexana": {
+    "deathly-grasp": {
+      "file": "/images/skills/vexana/deathly-grasp.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/190208116c6d9ac3c5587b06c04cca66.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "24dcce3b27c9cd08bdfb8ab10d8f46c7e17085fc956aeedd9dac3e9ec76d6a7f"
+    },
+    "cursed-blast": {
+      "file": "/images/skills/vexana/cursed-blast.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/2485cbb6eba6f43be96c2830301af7fd.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "3d73a2d17e25dc5177ee8915bccb4764c6422790ab7895e2766f478090e9bb37"
+    },
+    "eternal-guard": {
+      "file": "/images/skills/vexana/eternal-guard.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/5118e6279e7bd641fb3cde3dafa41b4f.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "38b989321a83f25d1e907a5c84d13b380a054843a40c667f8904428a2bcc8055"
+    },
+    "nether-touch": {
+      "file": "/images/skills/vexana/nether-touch.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/8d1cf4bd0a596143880c44be7165147e.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "901fc5def7e777a07d2aac4f28de9b82c4afeeaffc8efdef8d09b11ffd9f9b8c"
+    }
+  },
+  "lapu-lapu": {
+    "justice-blades": {
+      "file": "/images/skills/lapu-lapu/justice-blades.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/e21748ba7cf98a1a42a20b889aee8b7d.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "8034eaada31709e91cc43ceb41ccdef3855e456b4ff49d00a6cc7899f5cc184c"
+    },
+    "jungle-warrior": {
+      "file": "/images/skills/lapu-lapu/jungle-warrior.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/4bcf922cc4220305f5dbdb23077b994e.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "e287ddb16058c2141808f87c0feebdcb837fada7e7a6cf27912f8ae5faa0256f"
+    },
+    "bravest-fighter": {
+      "file": "/images/skills/lapu-lapu/bravest-fighter.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/d69fde3546266f1bb286110d3c331bee.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "47c0d21e0b92032071b144ba84c8d9bee8cf316cf34fccced239bcd4db6a6ce5"
+    },
+    "homeland-defender": {
+      "file": "/images/skills/lapu-lapu/homeland-defender.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/f5981a5c04eeb68d858b624e3c2a2d60.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "a6f8b83cbe39151c33751e9a9bcdefe2502585749d532c8a4db9b7d72ab16901"
+    }
+  },
+  "aurora": {
+    "hailstone-blast": {
+      "file": "/images/skills/aurora/hailstone-blast.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/f2fee486c03a69cb8f7db1aca8948e5d.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "afe268f5cd1e5d312e446a3c3ca7e653e0b34348a73e463a5237bd58fc286a23"
+    },
+    "frosty-breeze": {
+      "file": "/images/skills/aurora/frosty-breeze.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/03dca116f10b1fee2fa414dc30500aad.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "150a6dedcc5bb9b013992ff16911f20be608b4506f75fc31c0b9460fbb8644b2"
+    },
+    "frigid-glacier": {
+      "file": "/images/skills/aurora/frigid-glacier.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/52252e83c5408bda99c1889191c3d0bd.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "03cc7e277cc9beb18955dab0a2ec47b0dcf8c84b7bd368a7329d887d9f952c3f"
+    },
+    "pride-of-ice": {
+      "file": "/images/skills/aurora/pride-of-ice.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/98b6db0a93c75249e074df6b68e02ac2.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "8422a76018f816fa07b3c753b0d6922d93eaf153a0046a33e8901b1e78a3fd2b"
+    }
+  },
+  "hilda": {
+    "combat-ritual": {
+      "file": "/images/skills/hilda/combat-ritual.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/33bb2b16e0b3ba7c89000d69d1eff220.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "75123452b5024b27918ad5ccfd16f3fbda9f8242b184eb922b6bce5d343503b8"
+    },
+    "art-of-hunting": {
+      "file": "/images/skills/hilda/art-of-hunting.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/5694766308f9e7bc4b09632b5380788f.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "c951c9edfc003e972df1be2ba5de06407efae8d3b093223c028954367b0c0db8"
+    },
+    "power-of-wildness": {
+      "file": "/images/skills/hilda/power-of-wildness.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/724e52b0378b521c03abc1457ccef9fd.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "773db9509f5ca1ff0fcf5da7362b09c52d9cf8349abe14c9450dcc7ba3f9d3c3"
+    },
+    "blessing-of-wilderness": {
+      "file": "/images/skills/hilda/blessing-of-wilderness.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/560a9c8ff1e163eb2cbdef525c14d010.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "109e0c1ac5acaa8a6702348169ece2aab7cc0fecb04747523028fc9dd0ef1d79"
+    }
+  },
+  "estes": {
+    "moonlight-immersion": {
+      "file": "/images/skills/estes/moonlight-immersion.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/3943447c38bc8f90a603a401c157a063.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "13e7ef0b3607733545b38ed475dac278a1e21ed3e2b2ec78e2c831cf040baf0b"
+    },
+    "domain-of-moon-goddess": {
+      "file": "/images/skills/estes/domain-of-moon-goddess.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/6391aa6d3f38c548de9a76ecdf65bbac.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "132e2603fd547a7367e55bf9877fc9bde0e349ed02de4318c839db0d69b96a50"
+    },
+    "blessing-of-moon-goddess": {
+      "file": "/images/skills/estes/blessing-of-moon-goddess.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/c6331470f0a810e32239ce42d1e7d0fb.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "c23c925b624ca2ce5282c3137eec099d6ec034259fb038b94c0bb8f5583e48fb"
+    },
+    "scripture-of-the-moon-elf": {
+      "file": "/images/skills/estes/scripture-of-the-moon-elf.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/207cc0f4ddf1f50fbf3051fc2112ff72.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "70c3c67dbf5fc69eff834f5e594f0734bfa9eee0e3fa591d5b025567c75f4d5b"
+    }
+  },
+  "cyclops": {
+    "stardust-shock": {
+      "file": "/images/skills/cyclops/stardust-shock.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/51ebe41678a7682f30e705aba6de8494.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "8f9daeafcb574be59ea9a8e2fde3046d538fc011531d8e7a29c7ee47a58fb4ca"
+    },
+    "planets-attack": {
+      "file": "/images/skills/cyclops/planets-attack.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/3a369bb6cbeb0e4490ee71a33701076e.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "d913203018ed0f96b0d29044896764827c40325c617583269f53885c7074d327"
+    },
+    "star-power-lockdown": {
+      "file": "/images/skills/cyclops/star-power-lockdown.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/da71071a0ad29b1bba9a975b274d909e.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "52929dbdae55878089570c8fa654bb979649440e9f79211bf1a6d0c3f548d038"
+    },
+    "starlit-hourglass": {
+      "file": "/images/skills/cyclops/starlit-hourglass.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/13076c8be3526d0c7876239d53b02071.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "325196303b40031ae0b6943f490cd7bec885b57b6d0d5692f373408432d24495"
+    }
+  },
+  "johnson": {
+    "impact-wrench": {
+      "file": "/images/skills/johnson/impact-wrench.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/21a35c43fff43a04d7591f7d68e4a653.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "195af33ec3c8299d9098ce70779a2e437a837450031e9c67bb6a0f7191d59795"
+    },
+    "electromagnetic-waves": {
+      "file": "/images/skills/johnson/electromagnetic-waves.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/a86a975a9c9c1868cde14d69d593df2b.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "2567f3acc4c633811f0657cef2f610e96ff705d81d9b636b0437e0005cd83dde"
+    },
+    "full-throttle": {
+      "file": "/images/skills/johnson/full-throttle.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/7386d4a21cec7fa69299eb274ae655c6.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "e7b9afa5045dcbed230a2a18727f1bc883fee55f3b238fec142a5a8cc96d4b6d"
+    },
+    "electro-airbag": {
+      "file": "/images/skills/johnson/electro-airbag.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/8c7fb26cbe094d745bb1ccff04428fd0.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "095a66ef3ff81ca87c5c4a9735895fc993263191960413b261fa6e57796d82bb"
+    }
+  },
+  "moskov": {
+    "abyss-walker": {
+      "file": "/images/skills/moskov/abyss-walker.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/40e72b4943ec25ee15982d3e7222d06c.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "d0a98d9e40cfde0e33f5b6722f17ea82af26ad94f28156992e8ccb7c36640785"
+    },
+    "spear-of-misery": {
+      "file": "/images/skills/moskov/spear-of-misery.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/d2a6139c95464518b920af00d473d4b9.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "722c708fa9d20b1635a024f6da2cc553e6503607b522f8422455234915ac2cd7"
+    },
+    "spear-of-destruction": {
+      "file": "/images/skills/moskov/spear-of-destruction.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/3a2ec12796e3e2a24382e6335d53e873.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "3db90c50ffadadc06247b839ca020e13fe9084c616a3e839ff6aa987d98cb8ce"
+    },
+    "spear-of-quiescence": {
+      "file": "/images/skills/moskov/spear-of-quiescence.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/19c9d389518f07153ee9b86345ae3e9a.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "1f5351c34a577d07544f6e9c2ffca3d5b817b5fcae1b4548cbe4a31601cbb08a"
+    }
+  },
+  "yi-sun-shin": {
+    "traceless": {
+      "file": "/images/skills/yi-sun-shin/traceless.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/2602e2b9b494362f8e455496d5dbea57.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "7a1504e0f546d4a8f79bc701c05d3dd63397683338133bb5ab2dbb3a1a97eabf"
+    },
+    "blood-floods": {
+      "file": "/images/skills/yi-sun-shin/blood-floods.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/4c524b4708a4e4ef228cd10b3d29ba57.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "f72cf1ac7f56963bc7a524a0489389a772b328b57251616d5055a660602407b1"
+    },
+    "mountain-shocker": {
+      "file": "/images/skills/yi-sun-shin/mountain-shocker.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/f998e8974760e77d798c6c7199f83ea3.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "7fa9c41f3386f32c308e76034d510aa7bbdf4aab540dff0cee3b67443fcc5087"
+    },
+    "heavenly-vow": {
+      "file": "/images/skills/yi-sun-shin/heavenly-vow.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/9672d19592cad4af17b6ce485bb1c8a9.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "9db1b6269cc9ef3be9d41c9e0cbdbcc2cbb06a9c9add349116cbe1c3875b4228"
+    }
+  },
+  "ruby": {
+    "be-good": {
+      "file": "/images/skills/ruby/be-good.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/44138edc5343173c9f413b312f5b3107.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "7918308a0b79442a8c9aa724a5a88a48dc616ef57e2b45816d247baae805d413"
+    },
+    "dont-run-wolf-king": {
+      "file": "/images/skills/ruby/dont-run-wolf-king.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/f3f8fd4c894b5ab8365010ec3a594679.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "998349081aee6335030861adc529797a7710116d8d0bd71738e57546280e3b12"
+    },
+    "im-offended": {
+      "file": "/images/skills/ruby/im-offended.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/a77d86a4be152d62309a3ce49c8fb2aa.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "bfb888507151860e5dd59aafe7a82afc8bf33193df6ad0b723f105af094e27b0"
+    },
+    "lets-dance": {
+      "file": "/images/skills/ruby/lets-dance.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/978854a9ee93bee5eda7a28b0bcf8e7c.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "bd23c67565d001349b082accec4feac2abab33a82bd16ed63b75dac5a50567ba"
+    }
+  },
+  "alpha": {
+    "rotary-impact": {
+      "file": "/images/skills/alpha/rotary-impact.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/694038d7705c81bf63296e9d4dfe84c1.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "073f3ce8c746b9edb19aa361a5f40efd13558e0bbcb2c5017d561a4b7a0f045b"
+    },
+    "force-swing": {
+      "file": "/images/skills/alpha/force-swing.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/c3bff8708e374897ada0afa0d51a8096.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "3a3bfb5c5b9ca61f0263cc689a87c6fa8e2ce68bb48d517bbd813664482e2904"
+    },
+    "spear-of-alpha": {
+      "file": "/images/skills/alpha/spear-of-alpha.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/9298f1f02555a8bfb4f5550e1f4b4376.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "6ddf17ec852ea33599aa2acecc45ca0493c4322d1aab3929a0b364b167d2dce3"
+    },
+    "beta-advance": {
+      "file": "/images/skills/alpha/beta-advance.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/650504fa7666d0545e7a024082dc7663.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "897a23b170242390a92133f6ddcbb47d438c21eaa76b2810d150d7f26df181c0"
+    }
+  },
+  "sun": {
+    "endless-variety": {
+      "file": "/images/skills/sun/endless-variety.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/98ccbd5210ba08cb18ee0d42c3b9a03b.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "ff1c4df6ef304d79785ae4e2352d58ff0ec3c89fb373b3bda61a2c264cacd116"
+    },
+    "instantaneous-move": {
+      "file": "/images/skills/sun/instantaneous-move.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/709bb90dc70513a489c5f07268dfe721.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "ace9bba358e81f4a1e8c27be9f2caa508441e1bfd07860fdab4f7bcc7b395995"
+    },
+    "simian-god": {
+      "file": "/images/skills/sun/simian-god.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/35cf1df5d937d2a77babf978ee7ef80a.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "b9809aa61745a7a187a518ac170e954c7f1ecba026a2662ab5e421cd23675c81"
+    },
+    "swift-exchange": {
+      "file": "/images/skills/sun/swift-exchange.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/238d48f5a6fa6b07bad9849dcc53aefd.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "9ed0c755f96db249b6c3f58ace1162e6265f0315b42466be5e4ece8abe5db374"
+    }
+  },
+  "chou": {
+    "jeet-kune-do": {
+      "file": "/images/skills/chou/jeet-kune-do.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/96411a75fad89ea104580a9c5c6c47e9.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "730b947832ebd071adea08909b22ac924ed767f9ba2cac4177f417e566dcaf86"
+    },
+    "shunpo": {
+      "file": "/images/skills/chou/shunpo.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/70cab7dd36f899b39ebac9661dad6fc7.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "89f57e92a5148fc367b565607b264db312981ccef90af7d862b6586f6fbc5ab2"
+    },
+    "the-way-of-dragon": {
+      "file": "/images/skills/chou/the-way-of-dragon.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/acbf9a87dd77dcd327f0f96e1d045cb2.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "0f6488b2787dc23600522380431b7264d9660d0aa02d47cb82e74253408e11d3"
+    },
+    "only-fast": {
+      "file": "/images/skills/chou/only-fast.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/df66969c55ede10cb6eb906a0703670c.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "f71e41428411d434a1fb7f5567ca3369e314d8af007eba8fb78b3fbdfd85e7d2"
+    }
+  },
+  "kagura": {
+    "seimei-umbrella-open": {
+      "file": "/images/skills/kagura/seimei-umbrella-open.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/1a0c14f832be12bbd7c4fbc8d772efcc.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "5f54b598a1d36cf8d64bb53daea6b8a808df3a33e37aa73f4a0ae7b850754df3"
+    },
+    "rasho-umbrella-flee": {
+      "file": "/images/skills/kagura/rasho-umbrella-flee.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/5df5273dd1d62f300e9c74f80f1e2345.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "a467cfeff742b4b73df38c580e69ce4fcaa396dd067e8c37ecc8e0619ffe9060"
+    },
+    "yin-yang-overturn": {
+      "file": "/images/skills/kagura/yin-yang-overturn.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/00a3cf28b2aa631d8ec275510f4e9fc1.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "df4e7d0433ec794971ea50f4bac0666f9a8ab55959ab7ff59050e97968ffaada"
+    },
+    "yin-yang-gathering": {
+      "file": "/images/skills/kagura/yin-yang-gathering.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/c34caaac9f46d07fce46bc868e740b75.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "8952014f19d43ce1bafa82ccd3344309f2e879da594281933b7f39cce94eaf1a"
+    }
+  },
+  "natalia": {
+    "claw-dash": {
+      "file": "/images/skills/natalia/claw-dash.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/3bb7d87e06aa958e0ff603d75751f76e.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "d4f1ff52561f3f590ac8e058477dc835cf7b0e15478c69628c1635699264fb83"
+    },
+    "smoke-bomb": {
+      "file": "/images/skills/natalia/smoke-bomb.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/870069c55bba20eb58bb07c6e1ca7bad.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "56354448a1fbc6861ca2dd2c594b5d40fd421f5a7e611f30ea8d38b6f24976d5"
+    },
+    "the-hunt": {
+      "file": "/images/skills/natalia/the-hunt.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/61174a6ce1ef274ae78774f110c15660.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "6ff196da8c8113c54accd0c452b2ea9e877f8aa10a70c19a0ba73a20cb50cbf6"
+    },
+    "assassin-instinct": {
+      "file": "/images/skills/natalia/assassin-instinct.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/bcafbec22a43521019aa69127f6f63e3.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "d60c99980f4bdc56ec626a8e7eefd254f4bddf9336f55ca5ffa31c8934c293a2"
+    }
+  },
+  "gord": {
+    "mystic-projectile": {
+      "file": "/images/skills/gord/mystic-projectile.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/0918ce45c120bde96511ffd781cf0a3b.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "e9c4c09287ff526b04728a509046988ee512ebd19205bea6dde2024e6789816c"
+    },
+    "mystic-injunction": {
+      "file": "/images/skills/gord/mystic-injunction.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/00b56f03fdaa72b7e017a07ed95cac06.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "c19abacefba4a1a40c153e732a2346783f3c3cc47b9b3471d9f22e9af0dc726a"
+    },
+    "mystic-gush": {
+      "file": "/images/skills/gord/mystic-gush.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/2b0cdfb5ea22195f5cea885e33c5950f.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "3789718a0f4329cd28ef828828eddc60af49b673749ed5c1e5076b93913b86d0"
+    },
+    "mystic-favor": {
+      "file": "/images/skills/gord/mystic-favor.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/54087be78b49cce38d13a780e93f01ce.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "6a91714ee628544125fbf455e715d53085ad5e69280a0b6927f1a1681f00a420"
+    }
+  },
+  "freya": {
+    "leap-of-faith": {
+      "file": "/images/skills/freya/leap-of-faith.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/b30dd21c599e501c11923b753ce0be9e.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "84e55560285b3a35305127485dbb73304e0f19640605b0422bbf2cf4c30e17be"
+    },
+    "spirit-combo": {
+      "file": "/images/skills/freya/spirit-combo.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/6b56382b55e8fb654af14a0d8de1efe4.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "ae97c2b1672ef7df9ef272270f95aba6b9a435c5b52d9eb9443e65f4bbd73b51"
+    },
+    "valkyrie-descent": {
+      "file": "/images/skills/freya/valkyrie-descent.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/a966b940e463535880fe483f883e566a.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "839932a658ee2996d98bbcafe495fe6ce5cd785cb4a8f48fd8eb8565982ed033"
+    },
+    "power-of-einherjar": {
+      "file": "/images/skills/freya/power-of-einherjar.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/ec044c6ef9ea64ec9d9eea547b7a7f0c.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "a6e88496dac1653dfaea55a71aef37c2307decafdac52a43642fe187e6492467"
+    }
+  },
+  "hayabusa": {
+    "ninjutsu-phantom-shuriken": {
+      "file": "/images/skills/hayabusa/ninjutsu-phantom-shuriken.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/277c50dc1bd46115793f2c5424e5ff98.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "dae07b9f115a414d2f602c4bf812524484c226f0608279049bad1f2b6622491e"
+    },
+    "ninjutsu-quad-shadow": {
+      "file": "/images/skills/hayabusa/ninjutsu-quad-shadow.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/423d19fd6a488b9710415d754afb2a8b.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "6d8dfd804fb14d5952291004fdaf08d8e6b4c12f0ff65632a26354232c86c357"
+    },
+    "ougi-shadow-kill": {
+      "file": "/images/skills/hayabusa/ougi-shadow-kill.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/9606cd54d5fe9b69538e9f692d536f45.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "3119d5812fafb5540ec9e76ab0662c8f6e4aa00e0dbfc3f9dd98ce1749e9a49b"
+    },
+    "ninjutsu-trace-of-shadow": {
+      "file": "/images/skills/hayabusa/ninjutsu-trace-of-shadow.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/efa9dcfd672e15cc1d00e24aac72e6b5.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "4a91d9f0d9853cae301d74a85d7476e5c54b0e0e4c5848dc3cfda91e94bc1b46"
+    }
+  },
+  "lolita": {
+    "power-charge": {
+      "file": "/images/skills/lolita/power-charge.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/2e744d0749ce3ce66f2be72c3a514916.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "c69efe8b4dc074634cce260fcea8e83eed87590b8de3e1eef5460a977af2ef3c"
+    },
+    "guardians-reflection": {
+      "file": "/images/skills/lolita/guardians-reflection.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/57715feeaf0f8fe17ad91ca301121bf6.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "8ad72587187e8a35876c7f521411053035b538dc1e63c56c695a0607e7367d89"
+    },
+    "noumenon-blast": {
+      "file": "/images/skills/lolita/noumenon-blast.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/92c09d162af319e2a6d2655cebc34199.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "8da29938413fbb95ca927dc830dfe5d7213333628caab6d9d55fc19447fa6b0b"
+    },
+    "noumenon-energy-core": {
+      "file": "/images/skills/lolita/noumenon-energy-core.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/bb03ac231e3932c5c34aa863ef7c5f5c.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "60b1137c76a12a84047acfc558539b6661818b87a1e564d72c6cbd82c92353ba"
+    }
+  },
+  "minotaur": {
+    "despair-stomp": {
+      "file": "/images/skills/minotaur/despair-stomp.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/c6987d09a8f1a0f6594630d90b111d30.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "df52e80a8974c7ded440e5bf8f62ef450255e0ab9018ef731010d712a4f03b81"
+    },
+    "motivation-roar": {
+      "file": "/images/skills/minotaur/motivation-roar.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/9504976f0ddf35f01566b5412499e93b.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "783d9d4d24b7893eeb4bac66d596e190893ec49fb8852b34a272fc91b0293842"
+    },
+    "minoan-fury": {
+      "file": "/images/skills/minotaur/minoan-fury.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/449634c0289f3b6c852254ebb2771869.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "1a931050e25c309f77891d69f7190e483622ca81644180814b7cc8f90cbc520c"
+    },
+    "rage-incarnate": {
+      "file": "/images/skills/minotaur/rage-incarnate.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/ce71f83871e970016c8499c3f5a7809d.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "7a0996e194d70ab73cb8c53a7d0fa2a6ba4d1f39bd72851230f7dea5237e0f30"
+    }
+  },
+  "layla": {
+    "malefic-bomb": {
+      "file": "/images/skills/layla/malefic-bomb.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/2e0d77e4b3f5379cd1acfca017aa3d0a.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "d094a1153c7153af277bdb2c2f6fee2ae66cd76ba7dc350046076e70661f84de"
+    },
+    "void-projectile": {
+      "file": "/images/skills/layla/void-projectile.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/f5461a615f6eac85f0aaac34d9049c63.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "0a82b17b08fe55e7b02a1b59ef1d1af8d58277a601ce6fd295d2a99d5ac39202"
+    },
+    "destruction-rush": {
+      "file": "/images/skills/layla/destruction-rush.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/ebc9a3f2fe46162adadcd42dbed5b889.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "6b6d45f65c55e6786a6bea9ce94c3ebbeb7e25f1e71dad71750fde74990fb577"
+    },
+    "malefic-gun": {
+      "file": "/images/skills/layla/malefic-gun.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/8c2f45340c8275152f1eb6b6449e3b06.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "d02402709bda3ccc5360dee725d4b621d677452cb1b9f1150c2e1d8a87fb6bd9"
+    }
+  },
+  "fanny": {
+    "tornado-strike": {
+      "file": "/images/skills/fanny/tornado-strike.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/7dbd8e7f220c6ab3189e92a888e92564.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "424710d2c4065198e2652ce6131e0c94517bbf4bd016384499b06f0a966f1636"
+    },
+    "steel-cable": {
+      "file": "/images/skills/fanny/steel-cable.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/75f1af588764eea173af258b1b6a51b0.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "22dcfb196a1ca945d0254403d2646007b94d47e245ddb792566ecb667a794f89"
+    },
+    "cut-throat": {
+      "file": "/images/skills/fanny/cut-throat.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/09904c06a8f80b114436167599ad1251.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "efa77159e88af595a713c925f8709b2aa1389d8f154362c6c6193fdb48b02c5e"
+    },
+    "air-superiority": {
+      "file": "/images/skills/fanny/air-superiority.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/e6fe7f7fdba5cd1084508a770e8fc759.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "c96386d952262d6c6a6373cbbfc9d9a718fd9fad1a06156695aa8def381514c8"
+    }
+  },
+  "zilong": {
+    "spear-flip": {
+      "file": "/images/skills/zilong/spear-flip.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/bb45e0696010caaa3fca9b54279335cd.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "9105f14f402c3e8dbb638393d2faf7a67b5eb75a386dbd8635fd70dc84a02032"
+    },
+    "spear-strike": {
+      "file": "/images/skills/zilong/spear-strike.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/5f623080fc8095969400263752720752.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "d803436ec173ff9912fa46034bb2ea722f9692c972e151eddc14a93bf7fbedef"
+    },
+    "supreme-warrior": {
+      "file": "/images/skills/zilong/supreme-warrior.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/8752bb2d2a8895f2b091394f29e3c99c.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "080a688c4b607d768cb4b3eb8ee0d2b729b1a92cda7076acb4f68cd375c2fa6a"
+    },
+    "dragon-flurry": {
+      "file": "/images/skills/zilong/dragon-flurry.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/734d68e7f4a7586ed669869dffd6e889.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "c8ec1061107dff95c16280a7a814fa210501bb93d8774cefb3738004571c2760"
+    }
+  },
+  "eudora": {
+    "forked-lightning": {
+      "file": "/images/skills/eudora/forked-lightning.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/5d5e89cd6770610a6bdf0a821cd30d3f.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "2ef8e5a910dc7cf23372f27c16bb46bc03d087fd16427b6d3967b630241527f6"
+    },
+    "ball-lightning": {
+      "file": "/images/skills/eudora/ball-lightning.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/9c1088c7f6ed3356cf9810c33725c91c.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "7121bfbe034b8ed4d51bdb6bc8d2d996d9c0a1486a805be128694c918bb36f22"
+    },
+    "thunders-wrath": {
+      "file": "/images/skills/eudora/thunders-wrath.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/65ada38b48bfefaf537d89a5324b290e.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "a61e8257ea624e8f2b402b9de82d4cf8ea3ee196b1869444835821163c48cd57"
+    },
+    "superconductor": {
+      "file": "/images/skills/eudora/superconductor.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/6f125b3ee1660fd962cbd4a500c78681.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "e22a094a48f23d7b1000a3630614c8736c5b3113461c6197f433ebbb750281bb"
+    }
+  },
+  "rafaela": {
+    "light-of-retribution": {
+      "file": "/images/skills/rafaela/light-of-retribution.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/50d4de53d218be554607f9ab8f5c45ac.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "6f1f76e13a0fd72912d0b4872a93095d61932925f23ed1b890cd5cf40fa3fb88"
+    },
+    "holy-healing": {
+      "file": "/images/skills/rafaela/holy-healing.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/2eb22acaa248513f322e16e5359049c7.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "40265a1bc6201f6b2c60729184a0ffe8e8e0616d8f42e9131ac6086a6cc46efb"
+    },
+    "holy-baptism": {
+      "file": "/images/skills/rafaela/holy-baptism.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/76eacd7246b60231b0d889c216f0a345.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "3b88dcc713a20e4da176465ae72e45e6dec16ad9d9dce59fe3b11ea1d261a1cc"
+    },
+    "deity-penalization": {
+      "file": "/images/skills/rafaela/deity-penalization.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/d31cd3b4cfac274932ac9ba37d3e74f8.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "c739888de22de8c00f850ed2d762ae34862c9c72cca30aeec236673947ceedf0"
+    }
+  },
+  "clint": {
+    "quick-draw": {
+      "file": "/images/skills/clint/quick-draw.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/b48916dbe6f81a756ac7d6114121aa18.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "f80511a3feed6b1715908558368b9efee99110e0941b0805a5a3acc5960be191"
+    },
+    "trapping-recoil": {
+      "file": "/images/skills/clint/trapping-recoil.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/8a1207bc4e6972f5a858d4211c061244.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "78e37aa4d98e2e82cbefe3b4b0bd9ddd93c97515a421d4ff2474e8eebc3ab173"
+    },
+    "grenade-bombardment": {
+      "file": "/images/skills/clint/grenade-bombardment.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/f0bfa067be31afe98c94573929cc4f00.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "986d77127425d2c4f87d539d66639a1d5b5c3557b7792c5f2d647735f7b30167"
+    },
+    "double-shot": {
+      "file": "/images/skills/clint/double-shot.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/4575f0941419f5c73d23f3f4882b34da.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "f1599a682dd4607a3acda78934ffb66b57f47332b367326ddcab9e34c47a8f5a"
+    }
+  },
+  "bruno": {
+    "volley-shot": {
+      "file": "/images/skills/bruno/volley-shot.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/0cab7b4cb557f60f59bb2697edb4063b.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "5e7fd2b32ac5c84de34e6a0ff3d10cb1aa26cb434b554c84849cfc9abbb07139"
+    },
+    "flying-tackle": {
+      "file": "/images/skills/bruno/flying-tackle.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/c3bf6c0af23a7df3cd62a87d0fc5593d.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "6f2a892831ad31257c186082a5671b6be7a26e7c3a442c655ef2fbbe59e2e273"
+    },
+    "worldie": {
+      "file": "/images/skills/bruno/worldie.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/6ec4a73eda3593dec5249051d03599be.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "be1245663457ccdbbf10403a4608553c4c45ae2a0c148f1d7d8d98bed1bfe3cd"
+    },
+    "mecha-legs": {
+      "file": "/images/skills/bruno/mecha-legs.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/6841693d61e6c4121e3b0445dd919d0b.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "e6527db2589ca4024105ed5b41cb58b3513e96403953930a6790f5628cf59c5d"
+    }
+  },
+  "bane": {
+    "crab-claw-cannon": {
+      "file": "/images/skills/bane/crab-claw-cannon.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/b48acafcc72b49cbcc01d7f8aeb51f45.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "883d14219c5ac5c7ed695f0f65546fa055ef2fe16a47359641aa60782fadbdd1"
+    },
+    "ale": {
+      "file": "/images/skills/bane/ale.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/54a8650f48c47fdfda2219244a6dd023.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "c0d630a096328f8bb03398965ed90c439407270e113dd0e9de2b43c68f6aa1c6"
+    },
+    "deadly-catch": {
+      "file": "/images/skills/bane/deadly-catch.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/60b4287c7c3d7261f9d8996bc55a22c3.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "a55eb9530300dbeae151df50a25fad41572cfb9188cbe9f0de3cf555a3dbcd86"
+    },
+    "shark-bite": {
+      "file": "/images/skills/bane/shark-bite.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/90b53cec1c3e991bf3b594351b668c80.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "7cdc56c4e7490112e80794a462e1d2c5b8ba105df6e160ab7827da655d4fa21f"
+    }
+  },
+  "franco": {
+    "iron-hook": {
+      "file": "/images/skills/franco/iron-hook.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/27983b2fe64726194b0a96ab63dd312f.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "89467f980415f93a551b02d4bc5be2217ec5c98fd49c49862173ff77aa79ca2a"
+    },
+    "fury-shock": {
+      "file": "/images/skills/franco/fury-shock.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/a6f87354da64114d327cf05ad43243af.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "ed2dab38b2b959a7bb60bcd5294a380b6cf901cd76f5ef1b8d5b3fa78da8f098"
+    },
+    "bloody-hunt": {
+      "file": "/images/skills/franco/bloody-hunt.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/ab80f2d094d086da58a19de2fd449c4f.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "599870e2211d28c85c37d717a88a899c74b71bc0a0ecb88dd374615ab8d2ba69"
+    },
+    "wasteland-force": {
+      "file": "/images/skills/franco/wasteland-force.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/fe5f2edc82addd6ae2fdda4d5cc3bd69.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "f77ba4c37f7677dc07ffe16eca3a6b92e0f7e0239ff8bd6027463092630b4a44"
+    }
+  },
+  "akai": {
+    "headbutt": {
+      "file": "/images/skills/akai/headbutt.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/7c8c40692ef19823394beabae8220a11.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "52d5756e45ab92b36f7944320c3f2597ab745ba479c26539d5e921563c4ef320"
+    },
+    "body-slam": {
+      "file": "/images/skills/akai/body-slam.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/b97ef398af83803c3df91623f451519d.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "f11bb1835ea17ed9a6bba460e431f23f13d10e9c3c9623d748292685edde8830"
+    },
+    "heavy-spin": {
+      "file": "/images/skills/akai/heavy-spin.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/ce521bffaaf68694025633d1b10f646c.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "86c01d45a29b84e9fab174b02650de48347571a5e78b76d9b846e02846acb850"
+    },
+    "tai-chi": {
+      "file": "/images/skills/akai/tai-chi.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/bdd1a00edfaacdff683c3e0ce34afe2a.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "070c1236e2ea203f92647ea018a3cd0eff2769cfe80348e0806dfe415004024d"
+    }
+  },
+  "karina": {
+    "dance-of-blades": {
+      "file": "/images/skills/karina/dance-of-blades.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/39b0662cbbbbc0ae50161f4cc4f122bb.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "0e3bd154488ce5b596997d2f385129ae2c750f1b98831bec2b024fadd079778a"
+    },
+    "dance-of-death": {
+      "file": "/images/skills/karina/dance-of-death.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/fe01d1baf1585210a5556cfe0b388703.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "5b35cfaa271cd21a1bd7cc12afca0925af261f415bbb67e73583bb3b5f8951a4"
+    },
+    "shadow-assault": {
+      "file": "/images/skills/karina/shadow-assault.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/354685c04d6eabc0cb4a4cca7760bce8.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "8b17ff251d0dace2d5091288c4d254a97c772869aa41f5bb5b312121b83ae8b5"
+    },
+    "shadow-combo": {
+      "file": "/images/skills/karina/shadow-combo.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/6951c43b02fdcef0e7b6ec33df513f38.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "8b3cb3b7105b5576ad4e0f7832c419224e4b1bc3df5d1e94ded9f6e21b9c0ffd"
+    }
+  },
+  "alucard": {
+    "groundsplitter": {
+      "file": "/images/skills/alucard/groundsplitter.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/3c3a8c9a40e2483389c3c114ebd2c614.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "51e472c1546d1cba35729f5dea66b08d4261e7bdca9691e97299e21cde9d0b1c"
+    },
+    "whirling-smash": {
+      "file": "/images/skills/alucard/whirling-smash.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/8f60fc320fa8858169aabaaf7920c75b.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "73d660defe2deb20088979eaaec9fecce6178eb4f2e966bb03c6cffebd032fdc"
+    },
+    "fission-wave": {
+      "file": "/images/skills/alucard/fission-wave.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/bf090bbc46ff3bde1eb77957e13381f0.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "55e6cb7796ba425381119bdc1777944e965b7cd442f404a555ff3af31b3f3ad5"
+    },
+    "pursuit": {
+      "file": "/images/skills/alucard/pursuit.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/11d10d14839598a623a41952c1d02b7f.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "a1d7325af236f6b32dc96c24e7ab240ee20fb5acc302994a2ef263c1e7ecfaf2"
+    }
+  },
+  "tigreal": {
+    "attack-wave": {
+      "file": "/images/skills/tigreal/attack-wave.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/fb1ec9710eee34f00172a7f4dfa4390d.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "44b4c60b56cca1e7b3954dc942f71b1a5c568c9264ff16bfea77ba3dcbf2469c"
+    },
+    "sacred-hammer": {
+      "file": "/images/skills/tigreal/sacred-hammer.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/3e86282b58bee7437cef63d4c753d668.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "304d4db1db20b3101df7636577ed09d2dd92838a0af1fb140408743ca04cbe09"
+    },
+    "implosion": {
+      "file": "/images/skills/tigreal/implosion.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/fb946aafc7d6bc600c90ec0925ca434f.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "72859cad388a361c4b4df99feb4e5139dfdc0e6bf8da43323bac5c4cecb0b830"
+    },
+    "fearless": {
+      "file": "/images/skills/tigreal/fearless.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/d0a86a0bebfae542a9e2d1a46cd3a221.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "e68ca502ec93d9d012ae8a3ef3786deb501e3bc827d8d9debdfd59cc213443e8"
+    }
+  },
+  "nana": {
+    "magic-boomerang": {
+      "file": "/images/skills/nana/magic-boomerang.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/21a502ac0544123586ead24a75d6978f.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "c77a8c047065940dec2cf93651fab3001c462f643152fed0bdceeaa264f662b7"
+    },
+    "molina-smooch": {
+      "file": "/images/skills/nana/molina-smooch.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/e3414fb3056a875e51e27ef04cfa0729.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "4237ae466780b935f2cf8571e35cee6db88539a29e31c04d15a70ea3fab08c06"
+    },
+    "molina-blitz": {
+      "file": "/images/skills/nana/molina-blitz.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/fb8b4a13149384cebd12b7a846e33bcf.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "c426c498ea1a4549ce95105a2f90264ad8505ca185a88316b65108aa7dca5866"
+    },
+    "molinas-gift": {
+      "file": "/images/skills/nana/molinas-gift.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/b8b9a590ece16770e9e5662a11c0cff7.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "7762ce03d75536a0291ad21d71c3af058c1b98e6a8a40067d03818482770cda4"
+    }
+  },
+  "alice": {
+    "flowing-blood": {
+      "file": "/images/skills/alice/flowing-blood.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/e40bff56dfb49b82f06119054f7303e7.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "28312a29297d29607e296cee5891935f50abd30a70e8acceb12ece44a0ec2d54"
+    },
+    "blood-awe": {
+      "file": "/images/skills/alice/blood-awe.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/cada8a4288548c56f7ad6e854f24e028.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "bf04a2551fffdc97947b9fe5a37fa8c2e5263488e867411925341e0dfbf6adfb"
+    },
+    "blood-ode": {
+      "file": "/images/skills/alice/blood-ode.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/bc276d9a182063cd282e0b50f19af318.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "6d6e591d748d29c6cd6f68c4079af122611f14bf0e9deb5300d6b4a13d13f56f"
+    },
+    "blood-ancestry": {
+      "file": "/images/skills/alice/blood-ancestry.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/02796f3805ad1932260b8ea30f63da76.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "0df2a1e1d2320d311bf78843b7aefb80f4864987d7978bceeac1a5842dd00064"
+    }
+  },
+  "saber": {
+    "orbiting-swords": {
+      "file": "/images/skills/saber/orbiting-swords.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/dec422b920d3d066df19ddd51224a50f.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "ea1063e29de44484ab0abc14d93590950814720a937705d6d1fd744b05c4a468"
+    },
+    "charge": {
+      "file": "/images/skills/saber/charge.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/9073e9ae8ed65d129ee35a180a4031a3.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "e25cf228e8ef456193c5a15cde25d4ec22d883bd86d55a8cccbdcafb19c386b3"
+    },
+    "triple-sweep": {
+      "file": "/images/skills/saber/triple-sweep.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/7ef0ca90501396cfc971997fc3a4d470.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "b373e73b132ac68b7c45ffae6a29cd27354f77dbf059d90a212d62f91412a966"
+    },
+    "enemys-bane": {
+      "file": "/images/skills/saber/enemys-bane.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/8dc1ba5e9864b25b3c0336e33d63d345.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "e5cc8ec265ac979fbf1bc9c9fa3486e682917052f34d98c2bd39b4e48f820d89"
+    }
+  },
+  "balmond": {
+    "soul-lock": {
+      "file": "/images/skills/balmond/soul-lock.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/37db94a7294c7d16137ca10ec1726e0a.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "78ad80243c70d8ce03f556e60c592f4a78cc1417402964f0744946677cb826ec"
+    },
+    "cyclone-sweep": {
+      "file": "/images/skills/balmond/cyclone-sweep.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/100d8c946bf41696361032bb4e9a66ad.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "6b2955bf972bba99666050bf29b46a8d3e80d4fe5e32b8df48c2b60cd7a986a0"
+    },
+    "lethal-counter": {
+      "file": "/images/skills/balmond/lethal-counter.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/3d43fb4b36fe100565ee664d3845aaa5.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "6f42ea035a8869c55921a8d278abd0db7aaf4346f687342ee4856e2257bde010"
+    },
+    "bloodthirst": {
+      "file": "/images/skills/balmond/bloodthirst.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/1dfd12008b9d5e9b895633ce34286b9a.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "7d076f683d48adf8bbefbed6948686e21a7cb26c3770b7867ff9974c0cdd7011"
+    }
+  },
+  "miya": {
+    "moon-arrow": {
+      "file": "/images/skills/miya/moon-arrow.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/ccb18467ff1de61a9e9e7f37e7598ea7.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "573a1fd5a85aa306c0acf05f3859ec860ef3ee17636af24031278db51ef051e6"
+    },
+    "arrow-of-eclipse": {
+      "file": "/images/skills/miya/arrow-of-eclipse.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/cef8ef47912cced083381c9cf86f35cb.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "3b16d1fd10c4f29cbcfed6e60128399559e5b8258546cc903a73a11ad0394051"
+    },
+    "hidden-moonlight": {
+      "file": "/images/skills/miya/hidden-moonlight.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/3b4a7ec8531606b4a8cad697dae6f338.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "db288ab59665949830a8ebba909a42654a1804a32444be24a76facf6899f23f2"
+    },
+    "moon-blessing": {
+      "file": "/images/skills/miya/moon-blessing.webp",
+      "source_url": "https://akmweb.youngjoygame.com/web/mlweb/image/res/miya/skill/2281b4a99686dbb2f3076a76517d4429.png",
+      "retrieved_at": "2026-10-11T15:40:29.094Z",
+      "sha256": "c4ce69131f58829d8d9f3aecbb7fbfe339a986f405c84f7cea9192c0f33db107"
+    }
+  }
+}

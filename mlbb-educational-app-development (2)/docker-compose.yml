@@ -1,0 +1,29 @@
+# Local or Codespaces development: app + PostgreSQL.
+#   docker compose up -d db          # database only
+#   docker compose run --rm app npm run db:push -- --force && npm run db:seed
+services:
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: app_db
+    ports: ['5432:5432']
+    volumes: [pgdata:/var/lib/postgresql/data]
+    healthcheck:
+      test: ['CMD-SHELL', 'pg_isready -U postgres']
+      interval: 5s
+      retries: 10
+  app:
+    image: mcr.microsoft.com/devcontainers/javascript-node:22
+    command: sleep infinity
+    working_dir: /workspace
+    volumes: [.:/workspace:cached]
+    environment:
+      DATABASE_URL: postgresql://postgres:postgres@db:5432/app_db
+    ports: ['3000:3000']
+    depends_on:
+      db:
+        condition: service_healthy
+volumes:
+  pgdata:
